@@ -26,7 +26,7 @@ Plus: the `yellowtree-migrate` skill (conversion brain, auto-activates), the edi
 ## Install
 
 ```bash
-claude plugin marketplace add noevu/icf-yellowtree-migration
+claude plugin marketplace add noevu/icf-migrate-claude-plugin
 claude plugin install icf-yellowtree-migration
 ```
 
