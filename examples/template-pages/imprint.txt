@@ -1,0 +1,92 @@
+<!-- exported page id=110 slug=imprint status=publish title="Imprint (Template Version 1.1)" -->
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"textAlign":"left","level":1,"useDisplayFontStyle":true,"translatedWithWPMLTM":"1"} -->
+<h1 class="wp-block-heading has-text-align-left">Imprint</h1>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"verticalAlign":"start","md":6} -->
+<!-- wp:yellowtree/simple-card -->
+<article><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"translatedWithWPMLTM":"1"} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--4);margin-bottom:var(--wp--preset--spacing--4)">Contact</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3","fontSize":"medium","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center has-trend-3-color has-text-color has-link-color has-medium-font-size"><strong class="myprefix-text-bold">ICF XY<br/></strong>Your Street Nr<br/>ZIP Your City<br/>Yout Country<br/>deinemailadresse@deinedomain.com</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|2"}},"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3","fontSize":"small","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center has-trend-3-color has-text-color has-link-color has-small-font-size" style="margin-top:var(--wp--preset--spacing--2);margin-bottom:var(--wp--preset--spacing--2)"><em class="myprefix-text-italic">ICF XY is a non-profit association under <strong class="myprefix-text-bold">Swiss</strong> law.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:yellowtree/button-link {"backgroundColor":"primary","size":"small","isDisabled":false,"translatedWithWPMLTM":"1"} -->
+<a href="https://icf.church/">CONTACT</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --></article>
+<!-- /wp:yellowtree/simple-card -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"verticalAlign":"center","md":6,"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|2"}}},"translatedWithWPMLTM":"1"} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--2);margin-bottom:var(--wp--preset--spacing--2)">Responsibilities</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center"><strong class="myprefix-text-bold">Legal Representative</strong><br/>Person XY, Title ICF XY<br/><br/><strong class="myprefix-text-bold">{ONLY GERMANY}</strong><br/><strong class="myprefix-text-bold">Redaktionelle Vertretung </strong><br/><strong class="myprefix-text-bold">(§ 18 Abs. 2 MStV Germany):</strong><br/>Person XY, Title ICF XY<br/><br/><strong class="myprefix-text-bold">{ONLY AUSTRIA}</strong><br/><strong class="myprefix-text-bold">Media Owner</strong><br/><strong class="myprefix-text-bold">(gem. § 24 MedienG – Österreich): </strong><br/>ICF XY, Your Street, ZIP CITY, Country</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column {"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:heading {"translatedWithWPMLTM":"1"} -->
+<h2 class="wp-block-heading">Copyrights</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>All content, images, photos, and files on this website are protected by copyright. Unless otherwise specified, the rights belong to ICF Movement or the specifically credited rights holders. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>We love it when our content inspires others – but if you’d like to reuse anything (e.g. download, reproduce, or publish it), please make sure to request written permission in advance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>Feel free to reach out – we’re happy to find a good solution together.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"translatedWithWPMLTM":"1"} -->
+<h2 class="wp-block-heading">Disclaimer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>At ICF Movement, we do our best to keep this website up-to-date, accurate, and complete. However, we cannot guarantee the correctness or completeness of the content at all times. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>We exclude liability for any material or immaterial damage resulting from the use or non-use of the information provided – to the extent legally permitted</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3","translatedWithWPMLTM":"1"} -->
+<p class="has-trend-3-color has-text-color has-link-color">Technical issues, outages, or temporary downtimes may occur. We reserve the right to change, add, or remove content at any time without prior notice. If you notice any errors or problematic content, we’d appreciate a quick message <strong class="myprefix-text-bold">(HYPERLINK TO THE CONTACT FORM) </strong>– so we can take care of it straight away.  </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"translatedWithWPMLTM":"1"} -->
+<h2 class="wp-block-heading">Disclaimer for links</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>We share links to external websites because we love to pass on content that inspires. However, we want to make it clear: the responsibility for those external contents lies with the respective site owners – we have no editorial authority there. At the time of linking, we reviewed the pages and found no unlawful content.   </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3","translatedWithWPMLTM":"1"} -->
+<p class="has-trend-3-color has-text-color has-link-color">A permanent review of all linked content isn’t possible. If you notice anything inappropriate or illegal, please let us know <strong class="myprefix-text-bold">(HYPERLINK TO THE CONTACT FORM) </strong>– and we’ll take care of it as soon as possible. </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

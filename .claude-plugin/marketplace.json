@@ -1,0 +1,14 @@
+{
+	"name": "icf-yellowtree-migration",
+	"owner": {
+		"name": "Noël Bossart",
+		"url": "https://noevu.ch"
+	},
+	"plugins": [
+		{
+			"name": "icf-yellowtree-migration",
+			"source": "./",
+			"description": "Migrate an old ICF WordPress site (Enfold/Avia) to the Yellowtree block theme."
+		}
+	]
+}

@@ -1,0 +1,194 @@
+<!-- exported page id=163 slug=home status=publish title="Home (Template Version 1.3)" -->
+<!-- wp:yellowtree/hero-stage {"hasLinks":true,"className":"is-style-startpage"} -->
+<!-- wp:yellowtree/hero-stage-content {"mediaId":230,"focalPoint":{"x":0.51,"y":0.49}} -->
+<figure><img src="https://icf.church/rio/wp-content/uploads/sites/25/2024/04/testheader.jpeg" alt="Large crowd at ICF XY event in conference room, modern venue, Christian community, event, church, inspiration." /></figure><!-- wp:yellowtree/locked-heading {"textAlign":"center","level":1,"placeholder":"Überschrift","className":"display-1","maxLength":36} -->
+<h1>A New Church Experience</h1>
+<!-- /wp:yellowtree/locked-heading -->
+<!-- /wp:yellowtree/hero-stage-content -->
+
+<!-- wp:yellowtree/hero-stage-links {"count":3} -->
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-hands"} -->
+<a href="https://icf.church/rio/en/about/">New here?</a>
+<!-- /wp:yellowtree/icon-link-card -->
+
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-location-dot"} -->
+<a href="https://icf.church/rio/en/visit/">Visit</a>
+<!-- /wp:yellowtree/icon-link-card -->
+
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-signal-stream"} -->
+<a href="https://icf.church/rio/en/sermons/">Watch sermon</a>
+<!-- /wp:yellowtree/icon-link-card -->
+<!-- /wp:yellowtree/hero-stage-links -->
+<!-- /wp:yellowtree/hero-stage -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|2"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--2);margin-bottom:var(--wp--preset--spacing--2)">Welcome to ICF Rio</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|2"}}},"fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size" style="margin-top:var(--wp--preset--spacing--2);margin-bottom:var(--wp--preset--spacing--2)">We are a christian church with a biblical foundation:<br>Authentic, relevant, and excited about life with Jesus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-arrow-right","backgroundColor":"primary","size":"small"} -->
+<a href="https://icf.church/rio/en/about/">About us</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Current offers &amp; events</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|2"}}}} -->
+<h3 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--2)">Discover how you can grow in faith.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column {"mobileHorizontalAlign":"center","desktopHorizontalAlign":"end","style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-arrow-right","styleVariation":"outlined","backgroundColor":"primary","size":"small","isDisabled":false} -->
+<a href="https://icf.church/rio/de/angebote/">All offers &amp; events</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/slider {"template":"3-col","pagination":true,"navigation":true,"forceSameHeight":true,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|9"}}}} -->
+<!-- wp:yellowtree/card {"imageId":553,"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/250529_17-45-04_em-florian-d-scaled.jpg" alt="" /><h3 class="title">Team Night</h3><p class="text">Sample text for an offer in your ICF. In this example for a Team Night </p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a>Register now</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":642,"tags":[{"label":"NEW"}],"tagColor":"white","showTags":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/icfyouth.jpg" alt="Bright stage with live music, exuberant crowd at a large church service event, youthful audience, modern church atmosphere, musical event, religious event in a church, inspiring community, gospel concert, community in Christ, dynamic live worship." /><h3 class="title">Example Event</h3><p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":515,"tags":[{"label":"MOVEMENT"}],"tagColor":"primary","showButtons":true,"showTags":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/icfconference.jpg" alt="" /><h3 class="title">ICF Conference</h3><p class="text">Sample text for an event such as the ICF Conference</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a>Learn more</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+<!-- /wp:yellowtree/slider -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Our Mission</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|6"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-bottom:var(--wp--preset--spacing--6)">As a church, it is our passion for people to become more like Jesus Christ, live fearlessly and have a positive influence on their world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/button-link {"linkOpensInNewTab":true,"iconClass":"fa-solid fa-globe"} -->
+<a href="https://icf.church/en/vision/">Our Vision</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/fluid-gallery {"linkOpensInNewTab":false} -->
+<div><a href="https://icf.church/rio/en/connect/">Connect</a><!-- wp:yellowtree/fluid-gallery-image {"imageId":959} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/02/bild_neu1.png" alt="" />
+<!-- /wp:yellowtree/fluid-gallery-image -->
+
+<!-- wp:yellowtree/fluid-gallery-image {"imageId":581} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/eliano-davide0059-scaled.jpg" alt="" />
+<!-- /wp:yellowtree/fluid-gallery-image -->
+
+<!-- wp:yellowtree/fluid-gallery-image {"imageId":961} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/02/bild_neu3.png" alt="" />
+<!-- /wp:yellowtree/fluid-gallery-image -->
+
+<!-- wp:yellowtree/fluid-gallery-image {"imageId":963} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/02/bild_neu2.png" alt="" />
+<!-- /wp:yellowtree/fluid-gallery-image -->
+
+<!-- wp:yellowtree/fluid-gallery-image {"imageId":359} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/sundaynight.jpg" alt="People laugh and hug each other in a modern, welcoming church space that conveys community and faith—perfect for a visit to ICF XY." />
+<!-- /wp:yellowtree/fluid-gallery-image --></div>
+<!-- /wp:yellowtree/fluid-gallery -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column {"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Our locations</h3>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/slider {"template":"3-col","pagination":true,"navigation":true,"forceSameHeight":false,"style":{"spacing":{"margin":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/card {"showButtons":true} -->
+<article><img /><h3 class="title">ICF Location 1</h3><p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a>More info</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":226,"tagColor":"white","showButtons":true,"showTags":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2024/04/testbild.jpeg" alt="ICF XY church event with live music and communal worship, modern stage with lighting effects, large crowd at a spiritual event in a church." /><h3 class="title">ICF Location 2</h3><p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a>Map</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"tagColor":"primary","showButtons":false,"showTags":true} -->
+<article><img /><h3 class="title">Micro Church XY</h3><p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"showButtons":true} -->
+<article><img /><h3 class="title">ICF Location 4</h3><p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <br><br>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a></a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+<!-- /wp:yellowtree/slider -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/connect-social {"style":{"spacing":{"margin":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|10"}}}} -->
+<!-- wp:yellowtree/locked-heading {"className":"text-center display-2 mb-5"} -->
+<h2>Stay Updated</h2>
+<!-- /wp:yellowtree/locked-heading -->
+
+<!-- wp:yellowtree/locked-paragraph {"placeholder":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam","className":"text-center mb-6"} -->
+<p>Subscribe to ICF XY on Telegram and social media and no longer miss anything. <br>Here you will receive regularly news and updates about offers and events.</p>
+<!-- /wp:yellowtree/locked-paragraph -->
+
+<!-- wp:yellowtree/connect-social-links {"openLinksInNewTab":true} -->
+<!-- wp:yellowtree/connect-social-link {"variation":"telegram","iconClass":"fa-telegram","label":"Telegram Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"instagram","iconClass":"fa-instagram","label":"Instagram Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"facebook","iconClass":"fa-facebook","label":"Facebook Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"youtube","iconClass":"fa-youtube","label":"Youtube Link"} /-->
+<!-- /wp:yellowtree/connect-social-links -->
+<!-- /wp:yellowtree/connect-social -->
+
+<!-- wp:yellowtree/divider-card -->
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-users"} -->
+<article><h3 class="text">Connect</h3><a href="https://icf.church/rio/en/connect/">Let's go</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-location-smile"} -->
+<article><h3 class="text">Plan your visit</h3><a href="https://icf.church/rio/en/visit/">Let's go</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":true,"iconClass":"fa-video"} -->
+<article><h3 class="text">Watch online</h3><a href="https://youtube.com">Let's go</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+<!-- /wp:yellowtree/divider-card -->

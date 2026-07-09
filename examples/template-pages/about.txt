@@ -1,0 +1,201 @@
+<!-- exported page id=168 slug=about status=publish title="About (Template Version 1.5)" -->
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"margin":{"top":"var:preset|spacing|7"}}},"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--7)">Welcome to<br>ICF XY</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":383,"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-rounded","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|2","top":"var:preset|spacing|2"}}}} -->
+<figure class="wp-block-image alignwide size-full is-style-rounded" style="margin-top:var(--wp--preset--spacing--2);margin-bottom:var(--wp--preset--spacing--2)"><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/predigten_header.jpg" alt="A colorful concert with lights on stage, people in the audience enjoying the event, with the focus on the performance and the music." class="wp-image-383"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:yellowtree/row {"template":"1","containerWidth":10} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--4)">A NEW CHURCH EXPERIENCE</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|4"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--4)">ICF XY is a Christian church with a biblical foundation: authentic, relevant, and excited about life with Jesus.</h3>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/text-image {"variation":"card"} -->
+<!-- wp:yellowtree/locked-image {"imageId":403,"focalPoint":{"x":0.5,"y":0.12}} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/leoundsusannabigger.jpg" alt=""/>
+<!-- /wp:yellowtree/locked-image -->
+
+<!-- wp:yellowtree/text-card {"showButton":false,"transparentBackground":false} -->
+<!-- wp:yellowtree/locked-heading -->
+<h2>Welcome Home!</h2>
+<!-- /wp:yellowtree/locked-heading -->
+
+<!-- wp:yellowtree/locked-paragraph -->
+<p>Welcome to ICF XY! No matter how you found us, we are excited to have you here today! <br><br>We would like to introduce us to you—what defines us as a church, what motivates us, what we believe, and how we practice community.<br><br>Right from the start, we want to share with you our dream of a church that has inspired us from the very beginning and is now becoming more and more a reality.<br><br>We invite you to become part of this dream too. You are welcome, feel at home! <br><br>God's blessings,<br><br>First name &amp; First name Last name<br><em>Lead Pastors ICF XY </em></p>
+<!-- /wp:yellowtree/locked-paragraph -->
+<!-- /wp:yellowtree/text-card -->
+<!-- /wp:yellowtree/text-image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|9","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Our Mission</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|2"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" id="values" style="margin-bottom:var(--wp--preset--spacing--2)">As a church, it is our passion for people to become more like Jesus Christ, live fearlessly and have a positive influence on their world.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1-1-1-1","desktopBreakpoint":"md","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"end","desktopHorizontalAlign":"end","md":6,"lg":3} -->
+<!-- wp:yellowtree/button-link {"linkOpensInNewTab":true,"iconClass":"fa-solid fa-globe","styleVariation":"outlined"} -->
+<a href="https://icf.church/en/vision/">Our Vision</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center","md":6,"lg":3} /-->
+
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"start","desktopHorizontalAlign":"start","md":6,"lg":3} -->
+<!-- wp:yellowtree/button-link {"linkOpensInNewTab":true,"iconClass":"fa-solid fa-cross","styleVariation":"outlined"} -->
+<a href="https://icf.church/en/whatwebelieve">What We Believe</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6,"lg":3} /-->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/vision {"showPulseEffect":true} -->
+<h3 class="text">Our Values</h3><ul><!-- wp:yellowtree/vision-item {"icon":"fa-solid fa-party-horn"} -->
+<li>EXCITED | We know that the joy of the Lord is our strength</li>
+<!-- /wp:yellowtree/vision-item -->
+
+<!-- wp:yellowtree/vision-item {"icon":"fa-solid fa-house"} -->
+<li>HOSPITABLE | We create a loving "Welcome Home" Atmosphere</li>
+<!-- /wp:yellowtree/vision-item -->
+
+<!-- wp:yellowtree/vision-item {"icon":"fa-solid fa-face-smile-hearts"} -->
+<li>AUTHENTIC | We walk our talk</li>
+<!-- /wp:yellowtree/vision-item -->
+
+<!-- wp:yellowtree/vision-item {"icon":"fa-solid fa-rocket-launch"} -->
+<li>RELEVANT | We are at the heartbeat of time</li>
+<!-- /wp:yellowtree/vision-item -->
+
+<!-- wp:yellowtree/vision-item {"icon":"fa-solid fa-hand-heart"} -->
+<li>GENEROUS
+We are blessed to be a blessing</li>
+<!-- /wp:yellowtree/vision-item -->
+
+<!-- wp:yellowtree/vision-item {"icon":"fa-solid fa-heart"} -->
+<li>EXCELLENT | We give our very best for god</li>
+<!-- /wp:yellowtree/vision-item --></ul>
+<!-- /wp:yellowtree/vision -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading" id="werte">Our Code of Honor</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|2"}}}} -->
+<p class="has-text-align-left" style="margin-top:var(--wp--preset--spacing--2);margin-bottom:var(--wp--preset--spacing--2)"><em class="myprefix-text-italic">“Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|6"}}}} -->
+<p class="has-text-align-left" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--6)"><em class="myprefix-text-italic">The Bible - Hebrews 12:1-2, NIV</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As <strong class="myprefix-text-bold">employees and Core Leaders in ICF XY </strong>it is our deep desire to victoriously complete the race of faith. We are determined to live by biblical moral standards. After numerous conversations about the lifestyle of leaders in the church and inspired by the "Modesto Manifesto" written by Billy Graham and his friends, we have agreed on a set of voluntary principles: The <strong class="myprefix-text-bold">“Code of Honor for the ICF XY Staff”.</strong>  </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/accordion {"onlySingleOpen":true} -->
+<!-- wp:yellowtree/accordion-item {"showDescription":false} -->
+<details><summary><h3 class="title">Salaries and Finances</h3></summary><!-- wp:paragraph -->
+<p>The church ICF XY is an association. It is financed by voluntary donations. A salary model independent of commissions applies to all employees. The income from sales of all ICF Media products, such as books, music and apps, flows entirely into the organization. Upon request, we provide insight into our finances. With conviction, we fulfill the legal requirements, such as the regular audit of our association's accounts.     </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item {"showDescription":false} -->
+<details><summary><h3 class="title">Gesundheit und Sexualität</h3></summary><!-- wp:paragraph -->
+<p>We maintain a healthy and addiction-free lifestyle. We actively counteract sexual sin in a self-responsible manner. As an organization, we take preventive measures against sexual abuse and sexual violations, such as a sensitive application procedure, staff training, and a code of conduct for staff and volunteers.   To meet this end, we work together with the <a href="https://www.limita.ch" data-type="link" data-id="https://www.limita.ch">"Limita" specialist unit</a> Every person in our church has the right and the duty to contact the national and independent "Victim Assistance" specialist unit when a case is suspected.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Power and Competences</h3></summary><!-- wp:paragraph -->
+<p>We submit and commit ourselves to the mission statement of ICF XY. We use entrusted power and competencies responsibly and actively counteract the abuse of power. Leo and Susanna Bigger lead the organization as Senior Pastors and thus also the Core Team as its leadership team.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the Core Team, every opinion counts. We wrestle with decisions until everyone can support them and no one has any serious reservations. Strategic and operational responsibility is assigned to the respective areas, subsidiary operations, and locations in the sense of selforganized teams. The competences in the legal branches of the organization are all distributed among two authorized signatories.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Credibility and Integrity</h3></summary><!-- wp:paragraph -->
+<p>Our published figures and statistics are truthful. We have commissioned and appointed an independent, external clearing office (ombudsman's office) that is<br>not subject to our directives. Every person from the church and its surrounding has the possibility to report to them conflicts with leadership, suspicion of abuse of power, or observations of unhealthy behavior. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Information and link <a href="https://icf.church/en/clearingoffice/" data-type="link" data-id="https://icf.church/en/clearingoffice/" target="_blank" rel="noreferrer noopener">https://icf.church/en/clearingoffice/</a></p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+<!-- /wp:yellowtree/accordion -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|6"}}},"fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size" style="margin-top:var(--wp--preset--spacing--6)"><strong class="myprefix-text-bold">May God help us to live faithfully, passionately, and exemplarily.</strong></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|9","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Our history</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>What started with a small group and a big dream has grown into a global movement. The history of <strong class="myprefix-text-bold">ICF (International Christian Fellowship)</strong> is marked by dedication, challenges, and growth - it testifies to how God has guided, blessed, and shaped us over many years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When Leo and Susanna Bugger founded ICF Zurich in 1996, they had a vision: to build a church that is authentic, relevant, and vibrant, and brings people closer to Jesus in an innovative and contemporary way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/slider {"template":"3-col","pagination":true,"navigation":true,"variation":"history-card","forceSameHeight":true,"allowedTemplates":["3-col","4-col"],"style":{"spacing":{"margin":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|6","left":"0","right":"0"}}}} -->
+<!-- wp:yellowtree/history-card {"imageId":409} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/icfgeschichte.jpg"/><h3 class="title">2000</h3><p class="text">Sample text for your personal ICF story.</p></article>
+<!-- /wp:yellowtree/history-card -->
+
+<!-- wp:yellowtree/history-card {"imageId":659} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/icfhistory.png"/><h3 class="title">2010</h3><p class="text">Sample text for your personal ICF story.</p></article>
+<!-- /wp:yellowtree/history-card -->
+
+<!-- wp:yellowtree/history-card {"imageId":507} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/083648_240509_conf24_f.disque_012-scaled.jpg"/><h3 class="title">2025</h3><p class="text">Sample text for your personal ICF story.</p></article>
+<!-- /wp:yellowtree/history-card -->
+<!-- /wp:yellowtree/slider -->
+
+<!-- wp:paragraph -->
+<p>This vision brought a new kind of church to Zurich, a church that is at the heartbeat of time, appealing to and inspiring the younger generation in particular. Today, <strong class="myprefix-text-bold">ICF XY</strong> is a spiritual home for people of all generations.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column {"mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-arrow-right","styleVariation":"action","backgroundColor":"primary"} -->
+<a href="https://icf.church/rio/en/visit/">Visit ICF XY</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

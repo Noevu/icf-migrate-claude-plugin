@@ -1,0 +1,94 @@
+<!-- exported page id=843 slug=podcast status=draft title="Podcast (Example)" -->
+<!-- wp:heading {"level":1,"useDisplayFontStyle":true,"translatedWithWPMLTM":"1"} -->
+<h1 class="wp-block-heading">Podcast example elements</h1>
+<!-- /wp:heading --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>This is a sample page for podcast elements that are available to you.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Element 1 - Links</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/podcast-card {"translatedWithWPMLTM":"1"} -->
+<article><h3>Überschrift</h3><p>Beispiel Text einfügen</p><div class="inner-blocks"><!-- wp:yellowtree/podcast-links -->
+<!-- wp:yellowtree/podcast-link {"variation":"spotify","linkUrl":"https://icf.church/test","label":"Spotify"} -->
+<a href="https://icf.church/test">Spotify</a>
+<!-- /wp:yellowtree/podcast-link -->
+
+<!-- wp:yellowtree/podcast-link {"variation":"youtube","linkUrl":"https://icf.church/test","label":"YouTube"} -->
+<a href="https://icf.church/test">YouTube</a>
+<!-- /wp:yellowtree/podcast-link -->
+
+<!-- wp:yellowtree/podcast-link {"variation":"applePodcasts","linkUrl":"https://icf.church/test","label":"Apple Podcasts"} -->
+<a href="https://icf.church/test">Apple Podcasts</a>
+<!-- /wp:yellowtree/podcast-link -->
+<!-- /wp:yellowtree/podcast-links --></div></article>
+<!-- /wp:yellowtree/podcast-card -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Element 2 - Spotify Show (Video)</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>The latest video podcast episode is always displayed.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:embed {"url":"https://open.spotify.com/episode/5lb1kvcTM9O7JhGT7gLfVZ?si=d072df00552d46f8","type":"video","providerNameSlug":"spotify","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-spotify wp-block-embed-spotify wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://open.spotify.com/episode/5lb1kvcTM9O7JhGT7gLfVZ?si=d072df00552d46f8
+</div></figure>
+<!-- /wp:embed -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Element 3 - Spotify Show (Audio)</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>You can embed individual episodes in Video &amp; Audio.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:embed {"url":"https://open.spotify.com/show/0baOMm7BhZXOrYIDAHWqlU?si=33da462a8aeb479f","type":"rich","providerNameSlug":"spotify","responsive":true,"className":"wp-embed-aspect-21-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://open.spotify.com/show/0baOMm7BhZXOrYIDAHWqlU?si=33da462a8aeb479f
+</div></figure>
+<!-- /wp:embed -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Element 4 - Spotify Music Artist (Audio)</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph -->
+<p>Auch Spotify Artists Page kann man embedden</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:embed {"url":"https://open.spotify.com/intl-de/artist/0uw5aNQFG4WgdsqkElEHrW?si=fhvH4_wtRtSbQN7-FZeRXg","type":"rich","providerNameSlug":"spotify","responsive":true,"className":"wp-embed-aspect-21-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://open.spotify.com/intl-de/artist/0uw5aNQFG4WgdsqkElEHrW?si=fhvH4_wtRtSbQN7-FZeRXg
+</div></figure>
+<!-- /wp:embed -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

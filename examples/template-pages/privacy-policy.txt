@@ -1,0 +1,1388 @@
+<!-- exported page id=109 slug=privacy-policy status=publish title="Privacy Policy" -->
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":1,"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading">Datenschutzerklärung</h1>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading">Inhalt</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">1. <strong class="myprefix-text-bold"><a href="#einleitung" data-type="internal" data-id="#einleitung">Einleitung &amp; Verantwortliche Stelle</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Betreiber der Website</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Verantwortlich für den Inhalt &amp; Datenverarbeitung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Datenschutzbeauftragter</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Wer ist das ICF Movement?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Rechtsgrundlage</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">2. <a href="#datenverarbeitung" data-type="internal" data-id="#datenverarbeitung">Grundsätze der Datenverarbeitung</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>✅ Transparenz</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🎯 Zweckbindung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>➖ Datenminimierung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🔐 Sicherheit</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🕐 Speicherbegrenzung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🌍 Rechtmäßigkeit</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>3. <a href="#erhebung" data-type="internal" data-id="#erhebung"><strong class="myprefix-text-bold">Erhebung &amp; Verwendung personenbezogener Daten</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>📬 Kontaktaufnahme &amp; Formulare</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>💌 Newsletter &amp; Kommunikation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>💳 Spenden</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>📈 Website-Nutzung &amp; Tracking</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>💻 Server-Logs &amp; IT-Sicherheit</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">4. <a href="#cookies" data-type="internal" data-id="#cookies">Einsatz von Cookies &amp; Tracking Technologien</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>🍪 Was sind Cookies?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🍪 Consent Management (CookieHub)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>⚙️ Einwilligungsbasierte Cookies</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🛠 Verwaltung über Google Tag Manager</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">5. <a href="#tools" data-type="internal" data-id="#tools">Eingesetzte Tools &amp; Drittanbieter</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>📈 Analyse- und Performance-Tools</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>📋 Formulare, Newsletter &amp; Kommunikation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🎥 Medien Einbindungen</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>⚙️ Weitere Tools</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">6. <a href="#deinerechte" data-type="internal" data-id="#deinerechte">Deine Rechte</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>📋 Recht auf Auskunft</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>✏️ Recht auf Berichtigung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>❌ Recht auf Löschung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🧯 Recht auf Einschränkung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🚫 Recht auf Widerspruch</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>📤 Recht auf Datenübertragbarkeit</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🛑 Recht auf Widerruf von Einwilligungen</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🧑‍⚖️ Beschwerderecht bei einer Aufsichtsbehörde</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">7. <a href="#datenweitergabe" data-type="internal" data-id="#datenweitergabe">Datenweitergabe &amp; Auftragsverarbeitung</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>🤝 Zusammenarbeit mit Dienstleistern (Auftragsverarbeitung)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🌍 Weitergabe in Drittländer</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">8. <a href="#speicherdauer" data-type="internal" data-id="#speicherdauer">Speicherdauer</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>🔄 Allgemeine Grundsätze</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>📌 Was bedeutet das für dich?</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">9. <a href="#datenübermittlung" data-type="internal" data-id="#datenübermittlung">Internationale Datenübermittlung</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>🌍 Was heißt das konkret?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🇺🇸 Beispiel: USA</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">10. <a href="#sicherheit" data-type="internal" data-id="#sicherheit">Sicherheit</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>🔐 Technische &amp; organisatorische Maßnahmen</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>🛡️ Was du wissen solltest</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">11. <a href="#rechtsgrundlagen" data-type="internal" data-id="#rechtsgrundlagen">Rechtsgrundlagen der Datenverarbeitung &amp; Geltungsbereich</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Schweiz</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Europäische Union</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">12. <a href="#kontakt" data-type="internal" data-id="#kontakt">Kontakt bei Datenschutzanliegen</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">13. <a href="#änderungen" data-type="internal" data-id="#änderungen">Änderungen</a></strong></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="einleitung" style="margin-bottom:var(--wp--preset--spacing--4)">Einleitung &amp; Verantwortliche Stelle</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<p class="has-trend-3-color has-text-color has-link-color">Datenschutz ist für uns kein juristisches Pflichtprogramm, sondern ein Ausdruck von Verantwortung. Als ICF XY setzen wir uns dafür ein, dass deine Daten mit Sorgfalt und Respekt behandelt werden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Diese Datenschutzerklärung informiert dich darüber, welche personenbezogenen Daten wir auf unserer Website verarbeiten, zu welchem Zweck wir das tun und welche Rechte du dabei hast.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<p class="has-trend-3-color has-text-color has-link-color">Sie gilt für die Domain <a href="https://icf.church">https://icf.church</a> in all ihren Sprachfassungen sowie für alle folgenden juristischen Personen sowie für künftige Gesellschaften, die unter der Marke ICF (International Christian Fellowship) auftreten oder an denen eine der genannten Organisationen beteiligt ist.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ICF Movement (Verein)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ICF Movement Deutschland e.V (Verein)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<li class="has-trend-3-color has-text-color has-link-color">ICF XY</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Soweit in dieser Datenschutzerklärung von «ICF» oder «Wir» die Rede ist, sind damit – je nach Kontext – eine oder mehrere dieser Organisationen gemeint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Betreiber der Website</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<p class="has-trend-3-color has-text-color has-link-color"><strong class="myprefix-text-bold">ICF XY<br>Deine Strasse Nr<br>PLZ Dein Ort<br>Dein Land<br>deinemail@deinedomain</strong></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Verantwortlich für den Inhalt &amp; Datenverarbeitung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<p class="has-trend-3-color has-text-color has-link-color"><strong class="myprefix-text-bold">ICF XY<br>Deine Strasse Nr<br>PLZ Dein Ort<br>Dein Land<br>deinemail@deinedomain</strong></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Datenschutzbeauftragter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<p class="has-trend-3-color has-text-color has-link-color">Person XY, Rolle, Unternehmen, Mailadresse</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Wer ist das ICF Movement?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size" style="margin-top:var(--wp--preset--spacing--4);margin-bottom:var(--wp--preset--spacing--4)"><em class="myprefix-text-italic">ICF ist eine christliche Kirche auf biblischer Grundlage. Wir sind aus dem Traum entstanden, Kirche für die Menschen dynamisch, lebensnah und zeitgemäß zu gestalten. </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Das <a href="https://icf.church/movement" target="_blank" rel="noreferrer noopener">ICF Movement </a>ist eine Organisation, welche die Gründung von Kirchen vorwiegend in Europa und punktuell im Rest der Welt fördert, mit dem Ziel, dass Menschen Jesus Christus ähnlicher werden, furchtlos leben und ihr Umfeld positiv verändern. Die Gründung von neuen Kirchen verstehen wir als Missionsauftrag, der grundlegender Teil unserer DNA ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Neben der Gründung von ICF Kirchen setzt sich das ICF Movement dafür ein, dass die bestehende Kirchenlandschaft in Europa und darüber hinaus erneuert und gestärkt wird. Zu diesem Zweck werden Ressourcen, Konferenzen, Lehrgänge (ICF College), Leadership und Coachings angeboten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Gemeinsam glauben wir, dass Europa und die Welt durch gesunde und gesellschaftsrelevante lokale Kirchen erweckt werden kann. Es ist unsere tiefste Überzeugung, dass die lokale Kirche die Hoffnung der Welt ist!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Mehr dazu unter <a href="https://icf.church/movement" target="_blank" rel="noreferrer noopener">https://icf.church/movement</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Rechtsgrundlage</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Die jeweiligen Angaben bei den verschiedenen Tools in dieser Datenschutzerklärung werden ausschließlich zur Bearbeitung deiner jeweiligen Anfrage verwendet. Weitere Informationen findest du im Abschnitt <strong class="myprefix-text-bold">„<a href="#rechtsgrundlage" data-type="internal" data-id="#rechtsgrundlage">Rechtsgrundlagen der Datenverarbeitung</a>“</strong>.<br></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="datenverarbeitung" style="margin-bottom:var(--wp--preset--spacing--4)">Grundsätze der Datenverarbeitung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir verarbeiten personenbezogene Daten mit einem klaren Zweck und nur in dem Umfang, der dafür erforderlich ist. Dabei halten wir uns an diese Grundsätze:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">✅ Transparenz</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir möchten, dass du jederzeit nachvollziehen kannst, was mit deinen Daten geschieht. Deshalb beschreiben wir in dieser Erklärung offen, welche Tools wir nutzen und warum.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>🎯 </strong>Zweckbindung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir erheben und verwenden personenbezogene Daten für den Zweck, der auch vorgesehen ist – z. B. zur Kontaktaufnahme, Newsletter-Anmeldung, Analyse der Website-Nutzung oder zur Abwicklung von Spenden.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">➖ Datenminimierung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir erfassen &amp; verarbeiten nur so viele Daten, wie nötig. Wenn anonyme oder pseudonyme Nutzung möglich ist, setzen wir diese ein.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🔐 Sicherheit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Deine Daten sind bei uns geschützt. Wir setzen technische und organisatorische Maßnahmen ein, um sie vor Verlust, Missbrauch oder unberechtigtem Zugriff zu bewahren.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🕐 Speicherbegrenzung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir speichern personenbezogene Daten so lange, wie sie für den jeweiligen Zweck gebraucht werden oder gesetzliche Aufbewahrungspflichten bestehen.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🌍 Rechtmäßigkeit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Unsere Datenverarbeitung basiert auf einer gültigen Rechtsgrundlage: sei es deine Einwilligung, ein berechtigtes Interesse oder eine gesetzliche Pflicht. Wir treffen keine Entscheidungen mit Rechts- oder ähnlich erheblicher Wirkung ausschließlich automatisiert (kein „Profiling“ im Sinne von Art. 22 DSGVO)</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph -->
+<p><em class="myprefix-text-italic"><strong class="myprefix-text-bold">Hinweis:</strong> Für bestimmte Datenverarbeitungsvorgänge mit erhöhtem Risiko (z. B. Verarbeitung sensibler Daten) führen wir bei Bedarf eine Datenschutz-Folgenabschätzung (DSFA) gemäß Art. 35 DSGVO bzw. Art. 22 revDSG durch.</em></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="erhebung" style="margin-bottom:var(--wp--preset--spacing--4)">Erhebung &amp; Verwendung personenbezogener Daten</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir erheben personenbezogene Daten, wenn du sie uns aktiv übermittelst (z. B. über ein Formular) oder wenn sie technisch notwendig sind – zum Beispiel über ein Formular, deine IP-Adresse bei einem Seitenaufruf, beim Spenden oder bei der Nutzung unserer Website. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hier erfährst du, in welchen Situationen das passiert und wie wir diese Daten verwenden:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📬 Kontaktaufnahme &amp; Formulare</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wenn du zum Beispiel uns über ein Kontaktformular schreibst oder dich für ein Event anmeldest, verarbeiten wir die von dir eingegebenen Daten (z. B. Name, E-Mail, Anliegen etc.), um dein Anliegen zu beantworten oder die gewünschte Dienstleistung zu erbringen.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">💌 Newsletter &amp; Kommunikation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wenn du dich für unseren Newsletter anmeldest oder mit uns in Kontakt bleibst (z. B. durch Interesse an Ressourcen oder Angeboten), speichern und verwenden wir deine Kontaktdaten für regelmäßige E-Mails, Inspirationen und Updates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du kannst den Newsletter jederzeit über den Abmeldelink in jeder Mail wieder abbestellen.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">💳 Spenden</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spenden an das ICF Movement sind über unsere eigene Plattform <a href="https://give.icf.church">https://give.icf.church</a> möglich. Diese Plattform wird von uns, dem ICF Movement in Zusammenarbeit mit dem ICF Zürich betrieben und ist datenschutzrechtlich Teil unserer Verantwortung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Die Zahlungsabwicklung erfolgt über externe Anbieter wie Stripe, PayPal und TWINT. Sobald du dich für einen dieser Zahlungsdienste entscheidest, wirst du zu deren Plattform weitergeleitet. Für die weitere Verarbeitung gelten dann zusätzlich die jeweiligen Datenschutzrichtlinien der Anbieter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Die von dir angegebenen Daten (z. B. Name, E-Mail, Betrag, Zahlungsart) verarbeiten wir zur Abwicklung deiner Spende und zur Dokumentation (z. B. Ausstellung von Spendenbescheinigungen). Spenden an kirchliche Organisationen können unter Umständen Rückschlüsse auf deine religiöse Überzeugung zulassen (Besondere Kategorie personenbezogener Daten - gelten als besonders schützenswert nach Art. 9 DSGVO). Diese Verarbeitung erfolgt nur mit ausdrücklicher Einwilligung oder wenn gesetzlich erlaubt.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📈 Website-Nutzung &amp; Tracking</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Beim Besuch unserer Website werden automatisch bestimmte technische Informationen verarbeitet, wie:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<li class="has-trend-3-color has-text-color has-link-color">IP-Adresse (gekürzt/pseudonymisiert)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Browsertyp und -version</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Betriebssystem</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Datum und Uhrzeit des Zugriffs</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>besuchte Seiten / Verweildauer</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Diese Daten helfen uns, unsere Website technisch stabil zu betreiben und laufend zu verbessern (siehe Abschnitt <a href="#cookies" data-type="internal" data-id="#cookies">„Cookies &amp; Tracking“</a>)</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">💻 Server-Logs &amp; IT-Sicherheit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Beim Aufruf unserer Seiten verarbeitet unser Hosting automatisch Server-Logs (z. B. IP-Adresse, Datum/Uhrzeit, angeforderte URL, Referrer, User-Agent). Das dient der technischen Bereitstellung und IT-Sicherheit.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="cookies" style="margin-bottom:var(--wp--preset--spacing--4)">Einsatz von Cookies &amp; Tracking Technologien</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Unsere Website verwendet Cookies und vergleichbare Technologien, um - mit deiner Einwilligung - Inhalte nutzerfreundlich bereitzustellen, die Performance zu analysieren und bestimmte Funktionen (z. B. Formulare oder Videos) bereitzustellen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🍪 Was sind Cookies?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cookies sind kleine Textdateien, die dein Browser automatisch erstellt und auf deinem Endgerät speichert. Sie enthalten keine Schadsoftware, sondern helfen uns z. B. dabei:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>die Website technisch zu betreiben (essenzielle Cookies)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Besucherstatistiken zu erstellen</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Marketingkampagnen auszuwerten</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🍪 Consent Management (<a href="https://www.cookiehub.com/" data-type="link" data-id="https://www.cookiehub.com/">CookieHub</a>)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Unsere Website nutzt CookieHub zur Verwaltung von Einwilligungen für Cookies und Drittanbieter-Dienste. Das Tool zeigt beim Besuch ein Einwilligungs-Banner an und speichert die Zustimmung oder Ablehnung über ein technisch notwendiges Cookie.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">⚙️ Einwilligungsbasierte Cookies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nicht alle Cookies sind notwendig. Solche, die z. B. für Statistik oder Marketingzwecke verwendet werden, setzen wir nur mit deiner ausdrücklichen Einwilligung (§ 25 TTDSG / ePrivacy)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Beim ersten Besuch auf unserer Website zeigen wir dir deshalb ein Cookie-Banner an, in dem du individuell entscheiden kannst, welche Cookies du erlaubst. Du kannst deine Auswahl jederzeit über den Cookie-Banner ändern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">Wir verwenden folgende Cookie Kategorien:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Essenzielle Cookies: Für den technischen Betrieb notwendig.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Funktionale Cookies: Erhöhen die Nutzerfreundlichkeit.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Analyse-Cookies: Helfen uns, die Website zu verbessern.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Marketing-Cookies: Unterstützen zielgerichtete Werbung.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🛠 Verwaltung über Google Tag Manager</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir nutzen den <a href="https://tagmanager.google.com/" data-type="link" data-id="https://tagmanager.google.com/">Google Tag Manager</a>, um bestimmte Dienste datenschutzkonform und effizient zu steuern – z. B. Google Analytics, Facebook Pixel oder andere Analyse-Tools. Der Tag Manager selbst speichert keine personenbezogenen Daten, sondern lädt nur konfigurierbare Scripts.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="tools" style="margin-bottom:var(--wp--preset--spacing--4)">Eingesetzte Tools &amp; Drittanbieter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir nutzen ausgewählte Drittanbieter, um unsere Website nutzerfreundlich, sicher und modern zu gestalten. Im Folgenden erklären wir dir, welche Tools wir einsetzen, welche Daten dabei verarbeitet werden und warum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📈 Analyse- und Performance-Tools</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://analytics.google.com/" data-type="link" data-id="https://analytics.google.com/">Google Analytics</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Verwenden wir, um zu verstehen, wie Besucher unsere Website nutzen. Die gesammelten Daten (z. B. Seitenaufrufe, Verweildauer, verwendetes Gerät) werden anonymisiert ausgewertet.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://tagmanager.google.com/" data-type="link" data-id="https://tagmanager.google.com/">Google Tag Manager</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dient der Verwaltung von Tracking-Tags und Cookies. Der Tag Manager speichert selbst keine personenbezogenen Daten.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://de-de.facebook.com/business/tools/meta-pixel" data-type="link" data-id="https://de-de.facebook.com/business/tools/meta-pixel">Meta Pixel</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Setzen wir ein, um Marketing Kampagnen messen zu können und passende Inhalte anzuzeigen.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://business.google.com/de/google-ads/" data-type="link" data-id="https://business.google.com/de/google-ads/">Google Ads</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wird für Kampagnen-Tracking und Conversion-Messung verwendet, um die Wirksamkeit unserer Werbung zu analysieren.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://clarity.microsoft.com/" data-type="link" data-id="https://clarity.microsoft.com/">Microsoft Clarity</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dient zur Analyse des Nutzerverhaltens (z. B. Klickpfade, Heatmaps). Die Daten werden anonymisiert ausgewertet.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://www.gleap.io/" data-type="link" data-id="https://www.gleap.io/">Gleap</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir nutzen Gleap als Support- und Kommunikationsplattform. Sie dient der Verarbeitung von Support-Anfragen, der Anzeige von Hilfestellungen (z. B. Hilfeartikel), der Auswertung von Nutzerfeedback sowie zur gezielten Anzeige von Chatnachrichten, Benachrichtigungen oder Bannern.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://pulsetic.com/" data-type="link" data-id="https://pulsetic.com/">Pulsetic</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Überwacht die Verfügbarkeit und Performance der Website. Es werden keine personenbezogenen Daten gespeichert.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://sentry.io" data-type="link" data-id="https://sentry.io">Sentry</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Erfasst Fehlermeldungen (Bugs) und technische Daten zur Verbesserung der Stabilität.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📋 Formulare, Newsletter &amp; Kommunikation</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://www.mailgun.com/" data-type="link" data-id="https://www.mailgun.com/">MailGun</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir nutzen MailGun als SMTP-Dienst, um E-Mails technisch zuverlässig zuzustellen (z. B. Bestätigungen, Newsletter).</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://cloud.google.com/security/products/recaptcha" data-type="link" data-id="https://cloud.google.com/security/products/recaptcha">Google reCAPTCHA</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Um unsere Formulare vor Missbrauch und Spam zu schützen, verwenden wir Google reCAPTCHA (Version 2 &amp; 3). Dieser Dienst prüft, ob die Eingaben von einem Menschen oder einem Bot erfolgen. Dabei werden u. a. IP-Adresse, Verweildauer auf der Seite und Mausbewegungen analysiert und an Google übermittelt.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://www.salesforce.com/eu/form/sem/account-engagement/" data-type="link" data-id="https://www.salesforce.com/eu/form/sem/account-engagement/">Salesforce Account Engagement (Pardot)</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Unsere Marketing-Automation-Plattform, über die wir Newsletter und Kampagnen steuern. Pardot erfasst, welche Inhalte für dich relevant sind, um dir passende Informationen zu senden.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🎥 Medien Einbindungen</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://www.youtube.com/" data-type="link" data-id="https://www.youtube.com/">YouTube</a> &amp; <a href="https://vimeo.com/de/" data-type="link" data-id="https://vimeo.com/de/">Vimeo</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Videos von YouTube und Vimeo sind auf unserer Website eingebettet. Dabei können diese Anbieter Cookies setzen und Nutzungsdaten erheben (z. B. welche Videos angesehen werden).</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="http://spotify.com" data-type="link" data-id="spotify.com">Spotify</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Audio Dateien &amp; Videos von Spotify sind auf unserer Website eingebettet. Dabei kann Spotify Cookies setzen und Nutzungsdaten erheben (z. B. welche Podcasts angehört werden)</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://hub.icf.church" data-type="link" data-id="https://hub.icf.church">ICF Hub</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Predigten, Angebote, Gottesdienste und gewisse Organisationsdaten wie Social Media Links, Adresse oder Kontaktdaten werden von unserer eigenen internen ICF Plattform über eine API an die Website übertragen und ist technisch notwendig, damit die Kernfunktionalitäten funktionieren.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">⚙️ Weitere Tools</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Google Maps: Für interaktive Karten auf der Website</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Algolia: Für die interne Suchfunktion der Angebote, Predigten &amp; Standorte</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Shortpixel: Bildoptimierung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Zapier: Automatisierung (z. B. Datenweitergabe zwischen Tools).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>WPML (Übersetzung): Verwaltet die mehrsprachige Darstellung der Inhalte</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="deinerechte" style="margin-bottom:var(--wp--preset--spacing--4)">Deine Rechte</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Der Schutz deiner personenbezogenen Daten ist uns wichtig. Du hast das Recht zu wissen, was mit deinen Daten passiert und wir zeigen dir transparent, welche Möglichkeiten dir zur Verfügung stehen. Hier sind deine Rechte im Überblick:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📋 Recht auf Auskunft</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Du kannst jederzeit nachfragen, ob und welche personenbezogenen Daten wir über dich gespeichert haben.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">✏️ Recht auf Berichtigung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wenn etwas nicht (mehr) stimmt, kannst du die Korrektur deiner Daten verlangen.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">❌ Recht auf Löschung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Du hast das Recht, deine Daten löschen zu lassen – z. B. wenn sie für den ursprünglichen Zweck nicht mehr benötigt werden oder du deine Einwilligung widerrufen hast.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🧯 Recht auf Einschränkung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Du kannst verlangen, dass wir deine Daten nur noch eingeschränkt verarbeiten – z. B. während einer Prüfung oder bei Widerspruch.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🚫 Recht auf Widerspruch</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Du kannst verlangen, dass wir deine Daten nur noch eingeschränkt verarbeiten – z. B. während einer Prüfung oder bei Widerspruch.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📤 Recht auf Datenübertragbarkeit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Du kannst verlangen, dass wir deine Daten nur noch eingeschränkt verarbeiten – z. B. während einer Prüfung oder bei Widerspruch.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🛑 Recht auf Widerruf von Einwilligungen</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Du kannst verlangen, dass wir deine Daten nur noch eingeschränkt verarbeiten – z. B. während einer Prüfung oder bei Widerspruch.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🧑‍⚖️ Beschwerderecht bei einer Aufsichtsbehörde</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wenn du glaubst, dass deine datenschutzrechtlichen Anliegen nicht ausreichend geklärt wurden, hast du das Recht, dich an die zuständige Aufsichtsbehörde zu wenden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong class="myprefix-text-bold">Zuständig ist in der Regel:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>für Österreich: Österreichische Datenschutzbehörde</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>für Schweiz: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>für Deutschland: Der/die Datenschutzbeauftragte des jeweiligen Bundeslandes</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="datenweitergabe" style="margin-bottom:var(--wp--preset--spacing--4)">Datenweitergabe &amp; Auftragsverarbeitung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir geben deine personenbezogenen Daten grundsätzlich nicht an Dritte weiter, es sei denn, es ist:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>zur Erfüllung eines Zwecks erforderlich, den du kennst und willst (z. B. Spendenabwicklung),</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>gesetzlich vorgeschrieben,</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>durch eine gültige Einwilligung gedeckt,</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>oder erfolgt im Rahmen einer Auftragsverarbeitung.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🤝 Zusammenarbeit mit Dienstleistern (Auftragsverarbeitung)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Für bestimmte technische, administrative und kommunikative Prozesse arbeiten wir mit ausgewählten Dienstleistern zusammen. Diese sogenannten „Auftragsverarbeiter“ handeln in unserem Auftrag und nach unseren Weisungen – z. B. beim:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Hosting und Betrieb der Website (z. B. DigitalOcean, Xano, Imgix)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Versand von E-Mails (z. B. MailGun, Salesforce Account Engagement)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Analyse- und Trackingtools (z. B. Google Analytics, Clarity, Sentry)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Formulare (z. B. Gravity Forms)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Mit allen Auftragsverarbeitern haben wir datenschutzkonforme Verträge abgeschlossen, um sicherzustellen, dass deine Daten geschützt und nicht zu eigenen Zwecken verwendet werden.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🌍 Weitergabe in Drittländer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Einige unserer Dienstleister haben ihren Sitz außerhalb der Schweiz oder der EU (z. B. in den USA). In solchen Fällen achten wir darauf, dass ein angemessenes Datenschutzniveau besteht – z. B. durch:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Standardvertragsklauseln der EU-Kommission,</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Angemessenheitsbeschlüsse (bei Ländern wie der Schweiz),</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>oder zusätzliche technische Schutzmaßnahmen</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="speicherdauer" style="margin-bottom:var(--wp--preset--spacing--4)">Speicherdauer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir bewahren personenbezogene Daten so lange auf, wie es für den jeweiligen Zweck erforderlich ist – oder wie es gesetzlich vorgeschrieben ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🔄 Allgemeine Grundsätze</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3","fontSize":"medium"} -->
+<li class="has-trend-3-color has-text-color has-link-color has-medium-font-size">Kontaktanfragen werden maximal für 2 Jahre gespeichert (zum Zweck der&nbsp; Nachverfolgung und internen Analyse), sofern kein Löschwunsch eingeht, kein berechtigtes Löschinteresse besteht oder keine gesetzlichen Aufbewahrungspflichten bestehen.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Newsletterdaten speichern wir, bis du dich abmeldest oder deine Einwilligung widerrufst.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Spenderdaten unterliegen in der Schweiz und EU steuerrechtlichen Aufbewahrungspflichten (meist 10 Jahre).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Trackingdaten (z. B. über Google Analytics) werden anonymisiert gespeichert und aufbewahrt, um längerfristige Entwicklungen nachvollziehen, um die ICF Website verbessern zu können</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">📌 Was bedeutet das für dich?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir halten uns an gesetzliche Fristen und prüfen regelmäßig, welche Daten gelöscht oder anonymisiert werden können.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="datenübermittlung" style="margin-bottom:var(--wp--preset--spacing--4)">Internationale Datenübermittlung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Einige der von uns eingesetzten Dienste (z. B. für Hosting, Newsletter, Analytics) haben ihren Sitz oder verarbeiten Daten in Ländern außerhalb der Schweiz, Deutschlands oder Österreichs – insbesondere in den USA.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🌍 Was heißt das konkret?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Wenn personenbezogene Daten in Länder übermittelt werden, in denen kein gleichwertiges Datenschutzniveau wie in der Schweiz oder der EU besteht, stellen wir sicher, dass deine Daten dennoch gut geschützt sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong class="myprefix-text-bold">Das erreichen wir z. B. durch:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>EU-Standardvertragsklauseln (SCC) der EU-Kommission</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Angemessenheitsbeschlüsse (einschließlich EU/CH-US Data Privacy Framework)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong class="myprefix-text-bold">Zusätzliche technische/organisatorische Maßnahmen</strong>, wie Verschlüsselung oder strikte Zugriffsbeschränkungen</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🇺🇸 Beispiel: USA</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Einige unserer Dienstleister (z. B. Google, Meta, MailGun, Vimeo) haben ihren Hauptsitz in den USA. Diese Anbieter haben sich teilweise dem <strong class="myprefix-text-bold">Data Privacy Framework (DPF) </strong>angeschlossen, das zwischen der EU/Schweiz und den USA ein vergleichbares Datenschutzniveau sicherstellen soll.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wenn das nicht zutrifft, nutzen wir die <strong class="myprefix-text-bold">EU-Standardvertragsklauseln</strong> als rechtliche Grundlage.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="sicherheit" style="margin-bottom:var(--wp--preset--spacing--4)">Sicherheit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Der Schutz deiner Daten ist uns wichtig. Deshalb setzen wir umfassende Sicherheitsmaßnahmen ein, um sie zuverlässig vor Verlust, Missbrauch oder unbefugtem Zugriff zu schützen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🔐 Technische &amp; organisatorische Maßnahmen</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um deine Daten vor Verlust, Missbrauch, unberechtigtem Zugriff oder Offenlegung zu schützen. Dazu gehören u. a.:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>sorgfältige Auswahl und Kontrolle von Dienstleistern</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Verschlüsselung von Verbindungen (SSL/TLS), erkennbar am “https://” in der Adresszeile des Browsers</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Zugriffsbeschränkungen auf unsere Systeme</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>regelmäßige Sicherheits- und Software-Updates</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>sichere Passwortrichtlinien &amp; Zwei-Faktor-Authentifizierung (intern)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🛡️ Was du wissen solltest</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kein digitales System ist zu 100 % sicher. Aber wir tun unser Möglichstes, um ein hohes Maß an Schutz sicherzustellen – und reagieren sofort, wenn es Anlass zur Sorge gibt. Wenn dir etwas auffällt, melde dich gerne bei uns. Wir nehmen deine Hinweise ernst. Trotz sorgfältiger technischer und organisatorischer Maßnahmen kann bei der Übertragung von Daten über das Internet (z. B. bei der Nutzung von Drittanbieterdiensten) ein Restrisiko nie vollständig ausgeschlossen werden.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="rechtsgrundlagen" style="margin-bottom:var(--wp--preset--spacing--4)">Rechtsgrundlagen der Datenverarbeitung &amp; Geltungsbereich</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Diese Datenschutzerklärung orientiert sich an den Vorgaben der Datenschutz-Grundverordnung (DSGVO), des Schweizer Datenschutzgesetzes (revDSG) und des österreichischen Datenschutzrechts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unsere Datenverarbeitung stützt sich auf die jeweils geltenden gesetzlichen Grundlagen. Je nach Land, in dem du auf unsere Angebote zugreifst, gelten unterschiedliche Rechtsnormen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🇨🇭 Schweiz</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Die Verarbeitung erfolgt gemäss dem Grundsatz von Treu und Glauben nach Art. 31 Abs. 1 revDSG sowie unter Beachtung der Prinzipien der Verhältnismässigkeit, Zweckbindung und Datensicherheit (Art. 6 revDSG).</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">🇪🇺 Europäische Union</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Die Datenverarbeitung basiert auf den einschlägigen Rechtsgrundlagen der DSGVO, insbesondere:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Art. 6 Abs. 1 lit. a DSGVO – Einwilligung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Art. 6 Abs. 1 lit. b DSGVO – Vertragserfüllung bzw. Durchführung vorvertraglicher Maßnahmen</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Art. 6 Abs. 1 lit. c DSGVO – Rechtliche Verpflichtung</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Art. 6 Abs. 1 lit. f DSGVO – Berechtigtes Interesse (z. B. unser Interesse an der Analyse des Nutzerverhaltens zur Verbesserung unserer Website oder die Bereitstellung der IT-Sicherheit)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Art. 9 Abs. 2 DSGVO – Verarbeitung besonderer Kategorien personenbezogener Daten (z. B. im Spendenkontext)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Die jeweils einschlägige Rechtsgrundlage wird bei Bedarf in den jeweiligen Abschnitten angegeben bzw. richtet sich nach dem konkreten Zweck der Verarbeitung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Für Nutzer außerhalb dieser Rechtsräume – z. B. USA (CCPA), Brasilien (LGPD), UK – gelten ggf. zusätzliche Rechte. Falls du aus einem anderen Land auf unsere Angebote zugreifst, empfehlen wir, dich mit den lokalen Datenschutzbestimmungen vertraut zu machen.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="kontakt" style="margin-bottom:var(--wp--preset--spacing--4)"><strong>Kontakt bei Datenschutzanliegen</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wenn du Fragen zum Thema Datenschutz hast oder deine Rechte wahrnehmen möchtest (z. B. Auskunft, Löschung, Widerruf), dann melde dich gerne bei uns.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Kontakt</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3","fontSize":"medium"} -->
+<p class="has-trend-3-color has-text-color has-link-color has-medium-font-size"><strong class="myprefix-text-bold">ICF XY<br>Deine Strasse Nr<br>PLZ Dein Ort<br>Dein Land<br>deinemail@deinedomain</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wir beantworten deine Anfrage schnellstmöglich – und in jedem Fall innerhalb der gesetzlich vorgesehenen Frist (Melde- und Benachrichtigungspflichten nach Art. 33/34 DSGVO bzw. revDSG)</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="änderungen" style="margin-bottom:var(--wp--preset--spacing--4)"><strong><strong>Änderungen</strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wir überprüfen unsere Datenschutzerklärung regelmäßig und passen sie bei Bedarf an neue rechtlichen Anforderungen (z. B. durch Urteile des EuGH, neue Gesetze wie den AI Act oder Änderungen im revDSG) oder technische Veränderungen an. Die jeweils aktuelle Version findest du jederzeit auf unserer Website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|trend3"}}}},"textColor":"trend3"} -->
+<p class="has-trend-3-color has-text-color has-link-color"><strong class="myprefix-text-bold">Letzte Aktualisierung: Version 1.1 - Oktober 2025</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column /-->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

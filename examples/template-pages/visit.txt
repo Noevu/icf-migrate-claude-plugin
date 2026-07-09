@@ -1,0 +1,154 @@
+<!-- exported page id=164 slug=visit status=publish title="Visit (Template Version 1.4)" -->
+<!-- wp:heading {"level":1,"style":{"spacing":{"margin":{"top":"var:preset|spacing|7"}}},"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--7)">Good to have you here.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}}} -->
+<p style="margin-bottom:var(--wp--preset--spacing--4)">Every Sunday we celebrate our Celebrations – our loud, joyful, and passionate worship service and weekly highlight!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/hero-stage {"hasLinks":true,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/hero-stage-content {"mediaId":383} -->
+<figure><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/predigten_header.jpg" alt="A colorful concert with lights on stage, people in the audience enjoying the event, with the focus on the performance and the music."/></figure><!-- wp:yellowtree/locked-heading {"textAlign":"center","level":1,"placeholder":"Überschrift","className":"display-1","maxLength":36} -->
+<h1></h1>
+<!-- /wp:yellowtree/locked-heading -->
+<!-- /wp:yellowtree/hero-stage-content -->
+
+<!-- wp:yellowtree/hero-stage-links {"count":2} -->
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-party-horn"} -->
+<a href="#celebration-times">Celebration Times</a>
+<!-- /wp:yellowtree/icon-link-card -->
+
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-location-dot"} -->
+<a>Plan your visit</a>
+<!-- /wp:yellowtree/icon-link-card -->
+<!-- /wp:yellowtree/hero-stage-links -->
+<!-- /wp:yellowtree/hero-stage -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Celebrations</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|7"}}}} -->
+<p id="celebration-times" style="margin-bottom:var(--wp--preset--spacing--7)">Every Sunday, we celebrate various celebrations at ICF XY—each with its own style, language, and atmosphere.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/services-list {"serviceWidgetUuid":"a260c153-88c8-4fe5-bad5-b4944d9df8fb"} /-->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|7"}}}} -->
+<!-- wp:yellowtree/column {"mobileHorizontalAlign":"center","desktopHorizontalAlign":"center","style":{"spacing":{"blockGap":"var:preset|spacing|8"}}} -->
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-location-arrow","styleVariation":"action","backgroundColor":"primary"} -->
+<a href="https://icf.church/rio/en/visit">Plan your visit</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|2"}}},"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--10);margin-bottom:var(--wp--preset--spacing--2)">For all ages</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|7"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--4);margin-bottom:var(--wp--preset--spacing--7)">To help you quickly feel at home at ICF XY, we have special programs for children, teenagers, and young adults. Here you will quickly find friends your own age. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/image-link-cards -->
+<!-- wp:yellowtree/image-link-card {"imageId":882} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/01/instagram-post-design.png" alt=""/><p></p></article>
+<!-- /wp:yellowtree/image-link-card -->
+
+<!-- wp:yellowtree/image-link-card {"imageId":880} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/01/instagram-post-design-2.png" alt="Young people waiting for the tram in Basel symbolize the urban, youthful lifestyle. Perfect for topics such as teenagers, city life, public transportation, community, and youth culture in the Basel region. "/><p></p></article>
+<!-- /wp:yellowtree/image-link-card -->
+
+<!-- wp:yellowtree/image-link-card {"imageId":878} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/01/instagram-post-design-1.png" alt="High-quality black-and-white photo of a young man with his hand raised, symbolizing hope, community, and spiritual connection within the ICF youth group."/><p></p></article>
+<!-- /wp:yellowtree/image-link-card -->
+
+<!-- wp:yellowtree/image-link-card {"imageId":884} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2026/01/sunday-night-instagram-post.png" alt="Moderner Kirchenauftritt beim ICF Sonntagabend."/><p></p></article>
+<!-- /wp:yellowtree/image-link-card -->
+<!-- /wp:yellowtree/image-link-cards -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column {"mobileHorizontalAlign":"center","desktopHorizontalAlign":"center","style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-user-group","styleVariation":"action","backgroundColor":"primary"} -->
+<a>More communities</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--10)">FAQ - Good to know</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|6"}}}} -->
+<p style="margin-bottom:var(--wp--preset--spacing--6)">Do you have any questions? You can find the answers here. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/accordion -->
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Question 1</h3></summary><!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Question 2</h3></summary><!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Question 3</h3></summary><!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. et clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Question 4</h3></summary><!-- wp:paragraph -->
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+<!-- /wp:yellowtree/accordion -->
+
+<!-- wp:yellowtree/connect-social {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<!-- wp:yellowtree/locked-heading {"className":"text-center display-2 mb-5"} -->
+<h2>Stay Updated</h2>
+<!-- /wp:yellowtree/locked-heading -->
+
+<!-- wp:yellowtree/locked-paragraph {"placeholder":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam","className":"text-center mb-6"} -->
+<p>Subscribe to ICF XY on Telegram and social media and no longer miss anything.<br>Here you will receive regularly news and updates about offers and events.</p>
+<!-- /wp:yellowtree/locked-paragraph -->
+
+<!-- wp:yellowtree/connect-social-links -->
+<!-- wp:yellowtree/connect-social-link {"variation":"telegram","iconClass":"fa-telegram","label":"Telegram Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"instagram","iconClass":"fa-instagram","label":"Instagram Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"facebook","iconClass":"fa-facebook","label":"Facebook Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"youtube","iconClass":"fa-youtube","label":"Youtube Link"} /-->
+<!-- /wp:yellowtree/connect-social-links -->
+<!-- /wp:yellowtree/connect-social -->
+
+<!-- wp:yellowtree/divider-card -->
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-users"} -->
+<article><h3 class="text">Connect</h3><a href="https://icf.church/rio/en/connect/">Let's go</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-location-dot"} -->
+<article><h3 class="text">Plan your visit</h3><a href="https://icf.church/rio/en/visit/">Let's go</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":true,"iconClass":"fa-video"} -->
+<article><h3 class="text">Watch online</h3><a href="https://youtube.com">Let's go</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+<!-- /wp:yellowtree/divider-card -->

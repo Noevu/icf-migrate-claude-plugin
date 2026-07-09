@@ -1,0 +1,60 @@
+<!-- exported page id=167 slug=sermons status=publish title="Sermons (Template Version 1.2)" -->
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":1,"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading">Inspiring sermons</h1>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph -->
+<p>Here you will find all the latest sermons from ICF XY — inspiring messages that speak directly into your life. You can find and watch our ICF sermons online here at any time.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/sermons-list {"sermonWidgetUuid":"44faf0fa-2f3b-4030-8ede-e15d693f04ba"} /-->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/podcast-card -->
+<article><h3>Jetzt abonnieren</h3><p></p><div class="inner-blocks"><!-- wp:yellowtree/podcast-links -->
+<!-- wp:yellowtree/podcast-link {"variation":"youtube","linkUrl":"https://youtube.com","label":"YouTube"} -->
+<a href="https://youtube.com">YouTube</a>
+<!-- /wp:yellowtree/podcast-link -->
+
+<!-- wp:yellowtree/podcast-link {"variation":"spotify","linkUrl":"https://spotify.com","label":"Spotify"} -->
+<a href="https://spotify.com">Spotify</a>
+<!-- /wp:yellowtree/podcast-link -->
+
+<!-- wp:yellowtree/podcast-link {"variation":"applePodcasts","linkUrl":"https://music.apple.com/","label":"Apple Podcasts"} -->
+<a href="https://music.apple.com/">Apple Podcasts</a>
+<!-- /wp:yellowtree/podcast-link -->
+<!-- /wp:yellowtree/podcast-links --></div></article>
+<!-- /wp:yellowtree/podcast-card -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/divider-card -->
+<!-- wp:yellowtree/divider-card-item {"iconClass":"fa-solid fa-party-horn"} -->
+<article><h3 class="text">Live experience</h3><a>Visit a Celebration</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-handshake"} -->
+<article><h3 class="text">Discover offers</h3><a href="https://icf.church/rio/offers">Offers &amp; Events</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-user-group"} -->
+<article><h3 class="text">Connect</h3><a href="https://icf.church/rio/en/connect">Get connected</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+<!-- /wp:yellowtree/divider-card -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

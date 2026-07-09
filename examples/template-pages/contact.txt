@@ -1,0 +1,10 @@
+<!-- exported page id=105 slug=contact status=publish title="Contact" -->
+<!-- wp:paragraph {"align":"center","fontSize":"medium","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center has-medium-font-size"><strong class="myprefix-text-bold">Hey 👋</strong></p>
+<!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center">There is currently no movement template for this page. But we recommend that you should definitely have a page like this, which is why it has already been created as a draft.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center">This page is also linked in the ICF settings, as a contact button appears in many different places, which then links to this page.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"medium","translatedWithWPMLTM":"1"} -->
+<p class="has-text-align-center has-medium-font-size"><strong class="myprefix-text-bold">Your ICF Digital Team</strong></p>
+<!-- /wp:paragraph -->

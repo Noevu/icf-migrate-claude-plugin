@@ -1,0 +1,154 @@
+<!-- exported page id=150 slug=connect status=publish title="Connect (Template Version 1.1)" -->
+<!-- wp:yellowtree/hero-stage {"hasLinks":true} -->
+<!-- wp:yellowtree/hero-stage-content {"mediaId":621} -->
+<figure><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/kopie-von-kopie-von-marina-38-scaled.jpg" alt=""/></figure><!-- wp:yellowtree/locked-heading {"textAlign":"center","level":1,"placeholder":"Überschrift","className":"display-1","maxLength":36} -->
+<h1>Connect</h1>
+<!-- /wp:yellowtree/locked-heading -->
+<!-- /wp:yellowtree/hero-stage-content -->
+
+<!-- wp:yellowtree/hero-stage-links {"count":3} -->
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-hands"} -->
+<a href="https://icf.church/rio/en/connect/">New here?</a>
+<!-- /wp:yellowtree/icon-link-card -->
+
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-users"} -->
+<a>Small Groups</a>
+<!-- /wp:yellowtree/icon-link-card -->
+
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-hand-heart"} -->
+<a href="https://icf.church/rio/en/connect/">Become Volunteer</a>
+<!-- /wp:yellowtree/icon-link-card -->
+<!-- /wp:yellowtree/hero-stage-links -->
+<!-- /wp:yellowtree/hero-stage -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Welcome — we're happy to have you here!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You are warmly invited to get to know ICF XYZ. Our (lead/location) pastors XY &amp; XY look forward to welcoming you personally and giving you an insight into our church. </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=Vs4R6Q7wFiQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=Vs4R6Q7wFiQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Become part of the family</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We want church to become a family for you. Whether in a team, a small group, or a community—we have the right place for you! Become part of our church family and experience authentic relationships.  </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/slider {"template":"3-col","variation":"card","forceSameHeight":true,"allowedTemplates":["3-col","4-col"]} -->
+<!-- wp:yellowtree/card {"imageId":509,"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/090026_240609_conf24_h.neumann_049-scaled.jpg" alt=""/><h3 class="title">New here?</h3><p class="text">Are you new to ICF? Would you like to learn more about the church and faith? Discover who Jesus is, what defines us as ICF, and where your place in this church could be. </p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a href="https://icf.church/rio/en/connect/">Be part of it</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":513,"imageFocalPoint":{"x":0.54,"y":0.2},"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/153455_240510_conf24_b.haelg_031-scaled.jpg" alt=""/><h3 class="title">Small Groups</h3><p class="text">If you want to meet new people and grow in your relationship with God, we are convinced that a small group at ICF will be the ideal place for you.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a href="https://icf.church/rio/en/smallgroup/">Find your</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":629,"imageFocalPoint":{"x":0.5,"y":0.91},"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/marina-61-icf-photo-scaled.jpg" alt=""/><h3 class="title">Become Volunteer</h3><p class="text">By working in a team, you can develop your passion, cultivate your gifts, and experience wonderful fellowship.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a href="https://newicf.church/rio/en/volunteer/">Join us</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+<!-- /wp:yellowtree/slider -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/slider {"template":"3-col","variation":"card","forceSameHeight":true,"allowedTemplates":["3-col","4-col"]} -->
+<!-- wp:yellowtree/card {"imageId":569,"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/bewegung-09-09-scaled.jpg" alt=""/><h3 class="title">Communities</h3><p class="text">To help you feel at home at ICF quickly, we have various offers tailored to different ages and interests.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a href="https://icf.church/rio/en/communities/">Discover more</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":591,"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/icf-equip-corporate-shooting-24-5-scaled.jpg" alt=""/><h3 class="title">Micro Churches</h3><p class="text">Experience the ICF XYZ Celebrations via livestream together with others in your region and get to know new people.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a href="https://icf.church/rio/de/micro-churches/">Be part of it</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":589,"showButtons":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/icf-equip-corporate-shooting-24-4-scaled.jpg" alt=""/><h3 class="title">Discover God</h3><p class="text">“Discover God” offers you the opportunity to continue your journey with God—no matter where you are right now. Experience community and try new things—because we don't just want to talk about God, we want to experience Him.</p><!-- wp:yellowtree/card-buttons -->
+<!-- wp:yellowtree/card-button {"iconClass":"fa-arrow-right"} -->
+<a>Register now</a>
+<!-- /wp:yellowtree/card-button -->
+<!-- /wp:yellowtree/card-buttons --></article>
+<!-- /wp:yellowtree/card -->
+<!-- /wp:yellowtree/slider -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":3,"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading">Get in touch with us</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Would you like to learn more about ICF or just get in touch?<br>We look forward to hearing from you.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|6"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:gravityforms/form {"formId":"3","inputPrimaryColor":"#204ce5"} /-->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|9","bottom":"var:preset|spacing|2"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/connect-social -->
+<!-- wp:yellowtree/locked-heading {"className":"text-center display-2 mb-5"} -->
+<h2>Stay Connected</h2>
+<!-- /wp:yellowtree/locked-heading -->
+
+<!-- wp:yellowtree/locked-paragraph {"placeholder":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam","className":"text-center mb-6"} -->
+<p>Subscribe to ICF XY on Telegram and social media and no longer miss anything. <br>Here you will receive regularly news and updates about offers and events.</p>
+<!-- /wp:yellowtree/locked-paragraph -->
+
+<!-- wp:yellowtree/connect-social-links -->
+<!-- wp:yellowtree/connect-social-link {"variation":"telegram","iconClass":"fa-telegram","label":"Telegram Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"instagram","iconClass":"fa-instagram","label":"Instagram Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"facebook","iconClass":"fa-facebook","label":"Facebook Link"} /-->
+
+<!-- wp:yellowtree/connect-social-link {"variation":"youtube","iconClass":"fa-youtube","label":"Youtube Link"} /-->
+<!-- /wp:yellowtree/connect-social-links -->
+<!-- /wp:yellowtree/connect-social -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

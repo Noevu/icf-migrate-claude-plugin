@@ -1,0 +1,200 @@
+<!-- exported page id=152 slug=give status=publish title="Give (Template Version 1.4)" -->
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":1,"style":{"spacing":{"margin":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|6"}}},"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--7);margin-bottom:var(--wp--preset--spacing--6)">Give</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Your generosity makes a difference!</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/hero-stage {"hasLinks":true} -->
+<!-- wp:yellowtree/hero-stage-content {"mediaId":531} -->
+<figure><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/250529_09-43-35_conf-lydia-g-scaled.jpg" alt=""/></figure><!-- wp:yellowtree/locked-heading {"textAlign":"center","level":1,"placeholder":"Überschrift","className":"display-1","maxLength":36} -->
+<h1></h1>
+<!-- /wp:yellowtree/locked-heading -->
+<!-- /wp:yellowtree/hero-stage-content -->
+
+<!-- wp:yellowtree/hero-stage-links {"count":2} -->
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-heart"} -->
+<a>Give now</a>
+<!-- /wp:yellowtree/icon-link-card -->
+
+<!-- wp:yellowtree/icon-link-card {"iconClass":"fa-solid fa-handshake"} -->
+<a>Giving options</a>
+<!-- /wp:yellowtree/icon-link-card -->
+<!-- /wp:yellowtree/hero-stage-links -->
+<!-- /wp:yellowtree/hero-stage -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column {"style":{"spacing":{"blockGap":"var:preset|spacing|2"}}} -->
+<!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|7","bottom":"0"}}},"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--7);margin-bottom:0">Opportunities to give</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"0"}}},"fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size" style="margin-top:0">Our church is not built on the talents of a few, but on the determination and generosity of many.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/slider {"template":"3-col","pagination":true,"navigation":true,"variation":"image-card","forceSameHeight":true,"allowedTemplates":["3-col","4-col"],"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|6"}}}} -->
+<!-- wp:yellowtree/image-card {"imageId":664,"tags":[{"label":"Popular"}],"showTags":true,"linkOpensInNewTab":false} -->
+<a href="https://icf.church/test"><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/uberweisung-scaled.jpg"/><h2 class="title">Bank transfer</h2><p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p></a>
+<!-- /wp:yellowtree/image-card -->
+
+<!-- wp:yellowtree/image-card {"imageId":668,"linkOpensInNewTab":false} -->
+<a href="https://icf.church/test"><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/creditcard-scaled.jpg"/><h2 class="title">Online | Credit card</h2><p class="text">Here you can pay with your credit card or various online payment systems. The payment is processed via the secure page of our payment partner. </p></a>
+<!-- /wp:yellowtree/image-card -->
+
+<!-- wp:yellowtree/image-card {"imageId":666,"tags":[{"label":"NEW"}],"showTags":true} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/paypal-scaled.jpg"/><h2 class="title">PayPal</h2><p class="text">At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p></article>
+<!-- /wp:yellowtree/image-card -->
+<!-- /wp:yellowtree/slider -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column {"mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:yellowtree/button-link {"styleVariation":"action","backgroundColor":"primary2"} -->
+<a>Give now</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/text-image {"variation":"card","className":"is-style-4-3"} -->
+<!-- wp:yellowtree/locked-image {"imageId":425} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/reachbeyond-1-scaled.jpg" alt="Diversity of people enjoying a communal meal in a modern, bright room with decorative light bulbs and wood paneling; expression of cohesion and social interaction in an informal setting."/>
+<!-- /wp:yellowtree/locked-image -->
+
+<!-- wp:yellowtree/text-card {"transparentBackground":false} -->
+<!-- wp:yellowtree/locked-heading -->
+<h2>REACH Beyond</h2>
+<!-- /wp:yellowtree/locked-heading -->
+
+<!-- wp:yellowtree/locked-paragraph -->
+<p>REACH BEYOND – This is our annual fundraising campaign. It enables us to reach more people for Jesus, meet needs, expand church locally and start new ones globally.  </p>
+<!-- /wp:yellowtree/locked-paragraph -->
+
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-arrow-right"} -->
+<a href="https://icf.church/rio/en/reach-beyond-2026/">Learn more</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/text-card -->
+<!-- /wp:yellowtree/text-image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/slider {"template":"4-col","pagination":true,"navigation":true,"variation":"testimonial-card","forceSameHeight":false,"allowedTemplates":["3-col","4-col"],"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|6"}}}} -->
+<!-- wp:yellowtree/testimonial-card {"imageId":429,"testifierName":"Tom","testifierLocation":"ICF Berlin","backgroundColor":"trend3"} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/liberia.png" alt=""/><blockquote>This is an example Testimony 1</blockquote></article>
+<!-- /wp:yellowtree/testimonial-card -->
+
+<!-- wp:yellowtree/testimonial-card {"testifierName":"Lisa","testifierLocation":"ICF Zurich","backgroundColor":"trend2"} -->
+<article><img/><blockquote>This is an example Testimony 2</blockquote></article>
+<!-- /wp:yellowtree/testimonial-card -->
+
+<!-- wp:yellowtree/testimonial-card {"imageId":431,"testifierName":"Tom","testifierLocation":"ICF Berlin","backgroundColor":"trend1"} -->
+<article><img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/patkliever.png" alt=""/><blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae magna nec justo gravida fringilla. Aenean id turpis et risus porttitor tincidunt. Integer viverra metus   </blockquote></article>
+<!-- /wp:yellowtree/testimonial-card -->
+
+<!-- wp:yellowtree/testimonial-card {"imageId":-1,"testifierName":"Marie","testifierLocation":"ICF Munich","backgroundColor":"trend3"} -->
+<article><img src="" alt=""/><blockquote>This is an example Testimony 4</blockquote></article>
+<!-- /wp:yellowtree/testimonial-card -->
+
+<!-- wp:yellowtree/testimonial-card {"testifierName":"Lisa","testifierLocation":"ICF Zurich","backgroundColor":"trend1"} -->
+<article><img/><blockquote>Here is a quote spanning several lines. Voices on donation projects, donation successes, or possible goals. </blockquote></article>
+<!-- /wp:yellowtree/testimonial-card -->
+<!-- /wp:yellowtree/slider -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<!-- wp:yellowtree/column {"mobileHorizontalAlign":"center","desktopHorizontalAlign":"center","style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:yellowtree/button-link {"styleVariation":"action","backgroundColor":"primary2"} -->
+<a>Give now</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|6"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/text-image {"className":"is-style-4-3"} -->
+<!-- wp:yellowtree/locked-image {"imageId":529} -->
+<img src="https://icf.church/rio/wp-content/uploads/sites/25/2025/10/241231_10-07-07_ll24_alina-s-scaled.jpg" alt=""/>
+<!-- /wp:yellowtree/locked-image -->
+
+<!-- wp:yellowtree/text-card {"transparentBackground":true} -->
+<!-- wp:yellowtree/locked-heading -->
+<h2>2025 Annual Report from ICF XY </h2>
+<!-- /wp:yellowtree/locked-heading -->
+
+<!-- wp:yellowtree/locked-paragraph -->
+<p>See what God has done with us as ICF XY in all locations and age groups in 2025. <br><br>Behind every number is a story that God is writing with someone!<br></p>
+<!-- /wp:yellowtree/locked-paragraph -->
+
+<!-- wp:yellowtree/button-link {"iconClass":"fa-solid fa-book"} -->
+<a>To the annual report</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/text-card -->
+<!-- /wp:yellowtree/text-image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|4"}}},"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--10);margin-bottom:var(--wp--preset--spacing--4)">Frequently Asked Questions</h3>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|6"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/accordion {"onlySingleOpen":true} -->
+<!-- wp:yellowtree/accordion-item {"showDescription":false} -->
+<details><summary><h3 class="title">How ICF is financed?</h3></summary><!-- wp:paragraph -->
+<p>The ICF is financed according to biblical principles that have proven themselves since the Old Testament. God established tithing as the basis for providing for the temple—today, that is the church, where people encounter God, grow spiritually, and make a difference together. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">What does tithing mean?</h3></summary><!-- wp:paragraph -->
+<p>The tithe is not a law, but a biblical principle: we give 10% of our income to the house of God to honor His provision. Today, it finances the salaries of pastors and staff, building costs, and the various areas of the church. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Does ICF itself also give a tithe?</h3></summary><!-- wp:paragraph -->
+<p>Yes! We at ICF also give 10% of our income to social projects, partner organizations, and the ICF Movement. We believe that what we sow will bring fruit!  </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">What is the first fruit?</h3></summary><!-- wp:paragraph -->
+<p>The first fruits are a powerful biblical principle of trust and devotion. We bring the first and best—not what is left over—as an expression of our faith that God will bless and multiply the rest. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">What are voluntary offerings?</h3></summary><!-- wp:paragraph -->
+<p>In the Old and New Testaments, God's people repeatedly made voluntary offerings to build churches and advance the kingdom of God. Through our annual “REACH BEYOND” campaign, we also make strategic investments in churches, social projects, and partners that go beyond our regular budget. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Are there any financial obligations or membership fees in the ICF?</h3></summary><!-- wp:paragraph -->
+<p>No. The ICF does not have formal membership with financial obligations. Everyone is welcome, regardless of their financial situation.  </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">How does ICF handle donations?</h3></summary><!-- wp:paragraph -->
+<p>ICF is committed to responsible and entrepreneurial financial management. Every donation is used in a targeted and purpose-specific manner to support the mission of the church in the long term. We act with foresight, invest wisely, and ensure that funds are used efficiently.  </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+
+<!-- wp:yellowtree/accordion-item -->
+<details><summary><h3 class="title">Can one inspect the finances?</h3></summary><!-- wp:paragraph -->
+<p>Yes. Transparency is important to us—our finances can be viewed upon request, because trust is built through openness and integrity. </p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:yellowtree/accordion-item -->
+<!-- /wp:yellowtree/accordion -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

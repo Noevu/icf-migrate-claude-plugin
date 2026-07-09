@@ -1,0 +1,11 @@
+{
+	"name": "icf-yellowtree-migration",
+	"version": "1.0.0",
+	"description": "Migrate an old ICF WordPress site (Enfold/Avia shortcodes) to the new Yellowtree block theme — export, convert, validate, media download.",
+	"author": {
+		"name": "Noël Bossart",
+		"url": "https://noevu.ch"
+	},
+	"license": "MIT",
+	"keywords": ["wordpress", "migration", "icf", "yellowtree", "gutenberg", "enfold", "avia"]
+}

@@ -1,0 +1,18 @@
+<!-- exported page id=840 slug=blog status=draft title="Blog (Template Version 1.1)" -->
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"level":1,"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading">Stories &amp; Inspiration</h1>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph {"translatedWithWPMLTM":"1"} -->
+<p>A place for inspiration and stories from our church's life.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row --><!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column {"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:yellowtree/post-list /-->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

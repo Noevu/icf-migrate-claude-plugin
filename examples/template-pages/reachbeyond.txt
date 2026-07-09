@@ -1,0 +1,530 @@
+<!-- exported page id=1080 slug=reachbeyond status=publish title="REACH Beyond 2026" -->
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"Header Image"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/hero-stage {"hasLinks":false} -->
+<!-- wp:yellowtree/hero-stage-content {"mediaId":7085} -->
+<figure><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09002616/reach-beyond-2026-header-1-scaled.jpg" alt=""/></figure><!-- wp:yellowtree/locked-heading {"textAlign":"center","level":1,"placeholder":"Überschrift","className":"display-1","maxLength":36} -->
+<h1></h1>
+<!-- /wp:yellowtree/locked-heading -->
+<!-- /wp:yellowtree/hero-stage-content -->
+<!-- /wp:yellowtree/hero-stage -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"metadata":{"name":"Lead Text - 1 Spalte"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"textAlign":"center","level":1,"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading has-text-align-center">REACH BEYOND</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Our annual giving campaign.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Through it, we reach more people for Jesus, meet needs, expand our church locally, and plant new ones globally.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"Taglines Image - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:image {"id":8792,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/20150111/r26_en-website70-1024x370.jpg" alt="Ein Bild mit Text in hellgrüner Schrift auf beigem Hintergrund." class="wp-image-8792"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"metadata":{"name":"Heartbeat Title \u0026 Video - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:heading {"textAlign":"center","useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading has-text-align-center">Heartbeat</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":7088,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09003003/heartbeat-video-from-your-local-pastor-1024x576.png" alt="" class="wp-image-7088"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"metadata":{"name":"Heartbeat Text - 1 Spalte"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">“God loves a cheerful giver.” <br>– 2 Corinthians 9:7 | The Bible (NGÜ)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Imagine how God's generosity through you can reach others, meet needs, and spread hope – locally and globally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">REACH BEYOND is the annual fundraising campaign through which <strong>you make God's love visible and make a real difference.</strong> Your support makes it possible for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">People to find Jesus <br>People in need to receive help <br>Vibrant churches to be established</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">God blesses you so that you can become part of His story – a story where hope grows, people are transformed, and His kingdom becomes visible. When you give, you create space for others to encounter God. And you yourself experience how generosity shapes your heart and deepens your trust.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">With <strong>REACH BEYOND 2026</strong>, we are jointly investing in what truly matters: people encountering God, growing hope, and lasting change – in <strong>XXyour cityXX</strong> and far beyond.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Names of Pastors</strong><br>Lead Pastors, ICF XYZ</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md","metadata":{"name":"CTA Buttons - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center","md":6} -->
+<!-- wp:yellowtree/button-link {"styleVariation":"outlined","backgroundColor":"primary"} -->
+<a href="#projects">View projects</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center","md":6} -->
+<!-- wp:yellowtree/button-link -->
+<a href="#give">Give Now</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"7-5","desktopBreakpoint":"lg","metadata":{"name":"Visual Image - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"lg":7} -->
+<!-- wp:image {"id":7090,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09003504/menschen-emotion-4-1024x919.png" alt="" class="wp-image-7090"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"lg":5} /-->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"Slogan - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:image {"id":8794,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/20150147/r26_en-website68-1024x370.jpg" alt="Grüner Text auf beigem Hintergrund, der eine Botschaft über die Kirche enthält." class="wp-image-8794"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1-1-1","desktopBreakpoint":"lg","metadata":{"name":"Visual Images - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"lg":4} -->
+<!-- wp:image {"id":7092,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09003623/digital-artwork-1024x918.png" alt="" class="wp-image-7092"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"lg":4} /-->
+
+<!-- wp:yellowtree/column {"lg":4} -->
+<!-- wp:image {"id":7094,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09003636/foto-mit-transparentem-hintergrund-1024x919.png" alt="" class="wp-image-7094"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"metadata":{"name":"Giving Details - 1 Spalte"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="give">Give</h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1-1","desktopBreakpoint":"lg"} -->
+<!-- wp:yellowtree/column {"lg":4} -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Offering Weekend</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As a whole church, we will hold a special offering for our projects on Sunday, xx. yyyy 2026. You can bring your financial contribution to your Celebration and place it in the offering, donate online, or transfer it to the following account by the end of 2026. </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"lg":4} -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Bank transfer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can transfer your contribution to the following account:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bank Name</strong><br>xxxx City</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Beneficiary: ICF Name, Street, xxxx City<br>IBAN: XX11 0000 1111 0000 1111 0<br>SWIFT-BIC: XXXXXX<br>Reference: “REACH BEYOND 2026”</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"verticalAlign":"start","desktopHorizontalAlign":"start","lg":4,"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left">Give Online</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here you can donate using your credit card, Twint, Google, or Apple Pay.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/button-link -->
+<a>Give online now</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|6"}}},"useDisplayFontStyle":true} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--6);margin-bottom:var(--wp--preset--spacing--6)">2026 Goal: 999,999.-</h3>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/slider {"template":"3-col","variation":"card","allowedTemplates":["3-col","4-col"],"style":{"spacing":{"margin":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|6"}}}} -->
+<!-- wp:yellowtree/card {"imageId":2151,"imageFocalPoint":{"x":0.58,"y":0.19}} -->
+<article><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/sites/1/sites/1/sites/1/2025/11/20144146/chris-scaled.jpg" alt="Young man with a dark sweater and white pad outdoors."/><h3 class="title">Testimony #1 </h3><p class="text">REACH BEYOND Testimony – Statement from Person 1</p></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":2935,"imageFocalPoint":{"x":0.57,"y":0.2}} -->
+<article><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/01/19224448/katrinhaensch.png" alt="A smiling woman sitting in a white, basket-like armchair in front of a transparent curtain."/><h3 class="title">Testimony #2</h3><p class="text">REACH BEYOND Testimony – Statement from Person 2</p></article>
+<!-- /wp:yellowtree/card -->
+
+<!-- wp:yellowtree/card {"imageId":2706,"imageFocalPoint":{"x":0.6,"y":0.22}} -->
+<article><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/01/15150727/chrish.png" alt="Man with a dark jacket and gold chain, smiling in front of a window."/><h3 class="title">Testimony #3</h3><p class="text">REACH BEYOND Testimony – Statement from Person 3</p></article>
+<!-- /wp:yellowtree/card -->
+<!-- /wp:yellowtree/slider -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"Projects - 1 Spalte"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading" id="projects">Projects</h2>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"LOKALES PROJEKT #1"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong class="myprefix-text-bold">LOCAL PROJECT #</strong>1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1","mobileReverse":true,"desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:yellowtree/row {"template":"1-1","mobileReverse":false,"desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:paragraph -->
+<p><em>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."  </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>First Last</strong><br>Function, Organization</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6,"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:image {"id":3036,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-default","style":{"spacing":{"margin":{"right":"var:preset|spacing|2","left":"var:preset|spacing|2","top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image size-full is-style-default" style="margin-top:0;margin-right:var(--wp--preset--spacing--2);margin-bottom:0;margin-left:var(--wp--preset--spacing--2)"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/01/20135341/joelspirgi_round.png" alt="A smiling man with short hair wearing a summery floral dress." class="wp-image-3036" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6,"style":{"spacing":{"blockGap":"var:preset|spacing|2"}}} -->
+<!-- wp:image {"id":7102,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09005611/heartbeat-video-vom-pastor-1024x576.png" alt="" class="wp-image-7102"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"LOKALES PROJEKT #2"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong class="myprefix-text-bold">LOCAL PROJECT #</strong>2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1","mobileReverse":true,"desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:paragraph -->
+<p><em>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."  </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>First Last</strong><br>Function, Organization</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":3036,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/01/20135341/joelspirgi_round.png" alt="A smiling man with short hair wearing a summery floral dress." class="wp-image-3036" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6,"style":{"spacing":{"blockGap":"var:preset|spacing|2"}}} -->
+<!-- wp:image {"id":7102,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09005611/heartbeat-video-vom-pastor-1024x576.png" alt="" class="wp-image-7102"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"LOKALES PROJEKT #3"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong class="myprefix-text-bold">LOCAL PROJECT #3</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1","mobileReverse":true,"desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:paragraph -->
+<p><em>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."  </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>First Last</strong><br>Function, Organization</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":3036,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/01/20135341/joelspirgi_round.png" alt="A smiling man with short hair wearing a summery floral dress." class="wp-image-3036" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6,"style":{"spacing":{"blockGap":"var:preset|spacing|2"}}} -->
+<!-- wp:image {"id":7102,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09005611/heartbeat-video-vom-pastor-1024x576.png" alt="" class="wp-image-7102"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"Slogan 2 - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:image {"id":8796,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/20150224/r26_en-website67-1024x370.jpg" alt="Sonnenaufgang hinter Wolken am Himmel, helle Lichtstrahlen sichtbar." class="wp-image-8796"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}},"metadata":{"name":"Movement Projects - 1 Spalte"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading {"useDisplayFontStyle":true} -->
+<h2 class="wp-block-heading">Movement Projects</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The following REACH BEYOND projects are those we support together as an ICF Movement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"LOKALES PROJEKT #1"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong class="myprefix-text-bold"><strong class="myprefix-text-bold">CHURCH PLANTING</strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":7104,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09010131/kirchenpflanzung-1-1024x918.png" alt="" class="wp-image-7104"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>There are so many places and people in this world who have never heard of Jesus – and many who know Him but cannot find a church that supports and inspires them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Through your support, new churches are established where people discover faith, flourish, and positively impact their surroundings. Your donation helps the church grow where it is missing – vibrant, accessible, and relevant. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Today, over <strong>65 ICF churches</strong> have already been established. With your generosity, more will be added – places full of hope, love, and truth. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Further information: <a href="https://www.icf.church/en/movement/">icf.church/movement </a> </p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:paragraph -->
+<p><em>“Dresden as an ICF location has a moving history. There have been baptisms, discipleship tracks, and events in our own location. We prayed for pastors for a long time, but we didn't expect God to call us ourselves. Thanks to your support of REACH Beyond, it is possible for us to serve God and the people at ICF Startup Dresden with full strength and vision. We are excited to see what else God will do in our city and beyond in East Germany.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em class="myprefix-text-italic">Karsten &amp; Elisabeth Fischer</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Location Pastors, ICF Startup Dresden</em></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":7106,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09010145/instagram-post-design-3.png" alt="" class="wp-image-7106" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"LOKALES PROJEKT #2"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong class="myprefix-text-bold"><strong class="myprefix-text-bold"><strong class="myprefix-text-bold">TRAINING PASTORS &amp; KEY LEADERS</strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":7147,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09092410/pklt-2-1024x919.png" alt="" class="wp-image-7147"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Everything rises and falls with healthy leadership.</strong> Without well-trained pastors and leaders, strong, healthy churches cannot exist – and without strong local churches, there is no hope for this world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That is why we invest specifically in leaders who combine calling, character, and competence. Through the <strong>Pastors &amp; Key Leaders Training</strong>, they are empowered to lead holistically, develop people, and build God's kingdom. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Last year, we were able to equip over <strong>100 pastors and key leaders</strong> from more than <strong>20 ICF churches</strong>. Over <strong>200 more aspiring leaders</strong> attended the <strong>ICF Experience</strong>, our bootcamp for key people in our ICFs. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With your generosity, we are further developing these trainings, translating them into new languages, and making them accessible to even more people – so that leaders grow up everywhere, awakening hope, taking responsibility, and changing lives.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:paragraph -->
+<p><em>"</em><strong><em>Through the Pastors &amp; Key Leaders Training, we were able to grow together in leadership, theology, and spiritual skills – growth that was made possible by your support.<br></em></strong><em>What we have learned, we pass on: in our church, in the Movement, and especially to the Next Gen - so that young people get to know Jesus, grow in faith, and discover their calling.<br></em><em>Thank you for investing in leaders and making the church of tomorrow possible.</em><em>"</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Iven &amp; Lea-Cécile Külsen</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Communications &amp; Sunday Night / Small Groups, ICF Hamburg</em></p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":7152,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09092442/instagram-post-design-5.png" alt="" class="wp-image-7152" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"LOKALES PROJEKT #3"}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong class="myprefix-text-bold"><strong class="myprefix-text-bold"><strong class="myprefix-text-bold">DIGITAL INNOVATION</strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":7155,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09092516/digital-artwork-1-1024x918.png" alt="" class="wp-image-7155"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Most people today discover ICF digitally first – long before they visit a Celebration. That's why our online presence often determines whether an initial click turns into real belonging. Your support for <strong>Digital Innovations</strong> helps exactly with that: people find a home more easily, and local churches become visible and strengthened.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our digital reach is already considerable: over <strong>2.5 million website visitors per year</strong> and more than <strong>10,000 monthly page views</strong> on our resource platform “EQUIP”. But we want to continue to innovate. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2026, we will launch the new ICF website and continuously develop our digital platforms – including an expanded resource platform and a Learning Management System that supports and empowers churches with targeted training.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:yellowtree/row {"template":"1-1","desktopBreakpoint":"md"} -->
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:paragraph -->
+<p><em class="myprefix-text-italic"><em>“</em>What excites me about our resource platform EQUIP: leaders today have to navigate, decide, and carry more than ever before – and that's exactly where we don't leave them alone. EQUIP gives them ideas and tools that have an immediate impact in the church. Every month, over a thousand leaders access it to serve people, develop teams, and shape the church healthily. Next year, we are expanding the platform further: clearer, more accessible, and with even more resources that strengthen churches in their mission.   </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em class="myprefix-text-italic">Thank you for making exactly that possible with your generosity: strong leaders, strong churches, and people finding Jesus.<em>”</em></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Jowieke Larooij</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ICF Movement Team</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+
+<!-- wp:yellowtree/column {"md":6} -->
+<!-- wp:image {"id":7157,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09092531/instagram-post-design-4.png" alt="" class="wp-image-7157" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:yellowtree/button-link -->
+<a href="#give">Give Now</a>
+<!-- /wp:yellowtree/button-link -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","metadata":{"name":"Footer Image - 1 Spalte"}} -->
+<!-- wp:yellowtree/column {"verticalAlign":"center","mobileHorizontalAlign":"center","desktopHorizontalAlign":"center"} -->
+<!-- wp:image {"id":7172,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.icf.church/wp-content/live/uploads/sites/1/sites/1/sites/1/2026/02/09095406/website_background-element-1024x370.jpg" alt="" class="wp-image-7172"/></figure>
+<!-- /wp:image -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->

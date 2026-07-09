@@ -1,0 +1,46 @@
+<!-- exported page id=165 slug=events status=publish title="Offers & Events (Template Version 1.1)" -->
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column {"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:heading {"level":1,"useDisplayFontStyle":true} -->
+<h1 class="wp-block-heading">Offers &amp; Events</h1>
+<!-- /wp:heading -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:paragraph -->
+<p>Find offers and events to strengthen your faith and love for God, receive practical support, make new contacts, and deepen friendships.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/featured-events /-->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1"} -->
+<!-- wp:yellowtree/column -->
+<!-- wp:yellowtree/events-list {"eventsWidgetUuid":"915913c5-6073-40f8-b15b-468299186b6d"} /-->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
+
+<!-- wp:yellowtree/row {"template":"1","style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4"}}}} -->
+<!-- wp:yellowtree/column {"style":{"spacing":{"blockGap":"0"}}} -->
+<!-- wp:yellowtree/divider-card -->
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-person-walking"} -->
+<article><h3 class="text">Visit us</h3><a href="https://icf.church/rio/en/visit/">Visit a Celebration</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"linkOpensInNewTab":false,"iconClass":"fa-solid fa-user-group"} -->
+<article><h3 class="text">Connect</h3><a href="https://icf.church/rio/en/connect/">Get connected</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+
+<!-- wp:yellowtree/divider-card-item {"iconClass":"fa-solid fa-comments"} -->
+<article><h3 class="text">Ask your question</h3><a>Write us</a></article>
+<!-- /wp:yellowtree/divider-card-item -->
+<!-- /wp:yellowtree/divider-card -->
+<!-- /wp:yellowtree/column -->
+<!-- /wp:yellowtree/row -->
