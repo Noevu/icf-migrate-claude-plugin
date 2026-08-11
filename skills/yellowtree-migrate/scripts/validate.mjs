@@ -59,16 +59,43 @@ for (const file of files) {
 	}
 	for (const open of stack) errors.push(`L${open.line}: wp:${open.name} never closed`);
 
-	// inline styles — allowed nowhere except inside wp:embed figure wrappers
+	// inline styles — allowed nowhere except inside wp:embed figure wrappers,
+	// OR margin/padding-only declarations paired with a matching style.spacing
+	// attr on the immediately preceding open block comment (core heading/
+	// paragraph spacing pairs — the valid editor form is attr + inline together).
 	const embedRanges = [];
 	const embedRe = /<!--\s*wp:embed[\s\S]*?<!--\s*\/wp:embed\s*-->/g;
 	while ((m = embedRe.exec(src)) !== null) embedRanges.push([m.index, embedRe.lastIndex]);
-	const styleRe = /\sstyle="/g;
+
+	const openComments = [];
+	const openRe = /<!--\s*wp:([a-z0-9-]+(?:\/[a-z0-9-]+)?)(\s+(\{[\s\S]*?\}))?\s*(\/)?-->/g;
+	while ((m = openRe.exec(src)) !== null) {
+		openComments.push({ name: m[1], attrJson: m[3], index: m.index });
+	}
+	const precedingOpenComment = (idx) => {
+		let preceding = null;
+		for (const oc of openComments) {
+			if (oc.index < idx) preceding = oc;
+			else break;
+		}
+		return preceding;
+	};
+	const spacingOnlyStyle = /^(\s*(margin|padding)(-(top|bottom|left|right))?\s*:\s*[^;]+;?\s*)+$/;
+
+	const styleRe = /\sstyle="([^"]*)"/g;
 	while ((m = styleRe.exec(src)) !== null) {
 		const line = lineOf(m.index);
 		const inEmbed = embedRanges.some(([a, b]) => m.index >= a && m.index < b);
-		if (inEmbed) warnings.push(`L${line}: inline style inside wp:embed (Gutenberg-generated — ok if copied from reference)`);
-		else errors.push(`L${line}: inline style= found — theme handles design, remove it`);
+		if (inEmbed) {
+			warnings.push(`L${line}: inline style inside wp:embed (Gutenberg-generated — ok if copied from reference)`);
+			continue;
+		}
+		const styleVal = m[1];
+		if (spacingOnlyStyle.test(styleVal)) {
+			const preceding = precedingOpenComment(m.index);
+			if (preceding && preceding.attrJson && /"spacing"/.test(preceding.attrJson)) continue;
+		}
+		errors.push(`L${line}: inline style= found — theme handles design, remove it`);
 	}
 
 	// empty paragraphs
